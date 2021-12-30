@@ -1,0 +1,38 @@
+{
+    "isAFK": true,
+    "isGod": false,
+    "homes": {
+        "khanh": [
+            -10.9454,
+            63,
+            -13.4295,
+            "ender",
+            60,
+            36
+        ],
+        "bed": [
+            -1391.7085,
+            69.5625,
+            1966.1495,
+            "Skyblock",
+            0,
+            0
+        ],
+        "catmcpevn": [
+            81.9423,
+            48,
+            -3.4889,
+            "ender",
+            251,
+            13
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

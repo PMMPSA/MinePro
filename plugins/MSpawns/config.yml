@@ -1,0 +1,19 @@
+---
+show-prefix: true
+show-messages-onjoin: true
+force-hub: false
+enable-hub-message: true
+hub-message: Welcome to Hub, {PLAYER}
+force-spawn: false
+teleport-on-death: 1
+enable-spawn-message: true
+spawn-message: Teleported To {WORLD} Spawn
+enable-aliases: true
+hub:
+  world: Skyblock
+  X: -470.339000
+  "Y": 70.000000
+  Z: 1773.374900
+  Yaw: 181
+  Pitch: 29
+...

@@ -1,0 +1,62 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "spawn": [
+            831.916,
+            72.1632,
+            -652.1279,
+            "Skyblock",
+            333,
+            29
+        ],
+        "a": [
+            827.8296,
+            69,
+            -652.0873,
+            "Skyblock",
+            230,
+            -9
+        ],
+        "ala": [
+            845.5729,
+            69,
+            -647.6492,
+            "Skyblock",
+            83,
+            12
+        ],
+        "shop": [
+            2148.0767,
+            69,
+            462.3155,
+            "Skyblock",
+            278,
+            0
+        ],
+        "cuahaang": [
+            1959.5751,
+            69,
+            -848.2468,
+            "Skyblock",
+            256,
+            15
+        ],
+        "bear": [
+            844.3,
+            69.075,
+            -666.2565,
+            "Skyblock",
+            285,
+            58
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

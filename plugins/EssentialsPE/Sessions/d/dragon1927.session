@@ -1,0 +1,70 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "bed": [
+            1950.129,
+            69.5625,
+            -1596.5962,
+            "Skyblock",
+            0,
+            0
+        ],
+        "s1": [
+            130.2028,
+            128,
+            133.8795,
+            "nether",
+            264,
+            -20
+        ],
+        "s2": [
+            1774.408,
+            69,
+            -1223.3,
+            "Skyblock",
+            181,
+            25
+        ],
+        "s3": [
+            1962.3552,
+            69,
+            -848.3432,
+            "Skyblock",
+            352,
+            21
+        ],
+        "s4": [
+            1960.9895,
+            69.0625,
+            -1780.6906,
+            "Skyblock",
+            210,
+            3
+        ],
+        "shop2": [
+            2151.5469,
+            70,
+            469.5872,
+            "Skyblock",
+            96,
+            38
+        ],
+        "jeff": [
+            2144.7649,
+            70.5,
+            -98.7659,
+            "Skyblock",
+            70,
+            15
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

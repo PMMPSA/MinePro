@@ -1,0 +1,70 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "lol": [
+            1773,
+            69,
+            -1221,
+            "Skyblock",
+            329,
+            0
+        ],
+        "bed": [
+            -270.7943,
+            69,
+            -1781.5842,
+            "Skyblock",
+            0,
+            0
+        ],
+        "bunny": [
+            -280.5067,
+            70,
+            -1778.3,
+            "Skyblock",
+            347,
+            90
+        ],
+        "shop": [
+            -1610.9449,
+            69,
+            -1014.2914,
+            "Skyblock",
+            160,
+            -8
+        ],
+        "farm": [
+            844.9436,
+            69,
+            -661.5881,
+            "Skyblock",
+            294,
+            -1
+        ],
+        "netherbedrock": [
+            132.568,
+            131.4987,
+            133.9993,
+            "nether",
+            84,
+            53
+        ],
+        "ender": [
+            74.206,
+            53,
+            -3.6231,
+            "ender",
+            261,
+            90
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

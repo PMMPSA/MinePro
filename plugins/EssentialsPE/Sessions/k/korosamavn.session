@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "scop": [
+            -658.8683,
+            69,
+            1400.6804,
+            "Skyblock",
+            160,
+            46
+        ],
+        "typro": [
+            -284.1498,
+            69,
+            -663.1063,
+            "Skyblock",
+            94,
+            14
+        ],
+        "sc": [
+            -648.0833,
+            73,
+            1398.6686,
+            "Skyblock",
+            67,
+            41
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

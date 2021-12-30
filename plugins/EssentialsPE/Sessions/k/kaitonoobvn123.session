@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "bed": [
+            1594.9202,
+            69,
+            -1223.6927,
+            "Skyblock",
+            0,
+            0
+        ],
+        "k123": [
+            73.4246,
+            48,
+            -3.8945,
+            "ender",
+            359,
+            42
+        ],
+        "kaitovn": [
+            73.1686,
+            48,
+            -1.3337,
+            "ender",
+            91,
+            33
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

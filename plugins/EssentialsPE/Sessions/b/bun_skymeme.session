@@ -1,0 +1,33 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "cay": [
+            276.3,
+            68,
+            463.7,
+            "Skyblock",
+            206,
+            32
+        ],
+        "bed": [
+            275.9196,
+            81.5625,
+            450.6334,
+            "Skyblock",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": {
+        "276": "\/say Server Hacked By LTA Team",
+        "278": "tnt"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

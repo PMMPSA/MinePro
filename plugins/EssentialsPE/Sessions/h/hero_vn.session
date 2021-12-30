@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "ban": [
+            1773,
+            69,
+            -1221,
+            "Skyblock",
+            261,
+            0
+        ],
+        "shop": [
+            -1602.7198,
+            69,
+            -1025.348,
+            "Skyblock",
+            48,
+            4
+        ],
+        "bed": [
+            -1218.7391,
+            69,
+            1773.4684,
+            "Skyblock",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

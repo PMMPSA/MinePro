@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "1": [
+            -1407.3214,
+            71,
+            1215.5173,
+            "Skyblock",
+            207,
+            48
+        ],
+        "2": [
+            -1405.3306,
+            69,
+            -1591.4479,
+            "Skyblock",
+            182,
+            79
+        ],
+        "sb": [
+            -1593.2181,
+            69,
+            1771.8959,
+            "Skyblock",
+            13,
+            33
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,78 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "scopi": [
+            127.8488,
+            33,
+            118.2652,
+            "nether",
+            177,
+            25
+        ],
+        "scopion": [
+            71.7238,
+            48,
+            -2.5339,
+            "ender",
+            251,
+            20
+        ],
+        "s": [
+            1591.6284,
+            69,
+            -1216.9935,
+            "Skyblock",
+            196,
+            -5
+        ],
+        "sh": [
+            -1603.6866,
+            69,
+            -1021.8503,
+            "Skyblock",
+            69,
+            12
+        ],
+        "n": [
+            -99.8144,
+            70,
+            1962.1539,
+            "Skyblock",
+            233,
+            22
+        ],
+        "c": [
+            1769.3,
+            69,
+            -1215.3979,
+            "Skyblock",
+            356,
+            25
+        ],
+        "bed": [
+            1952.5,
+            69,
+            -1596.5,
+            "Skyblock",
+            0,
+            0
+        ],
+        "sheep": [
+            831.9163,
+            69.9999,
+            -656.454,
+            "Skyblock",
+            8,
+            39
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,1807 @@
+2018-03-30 [20:13:50] [Server thread/WARNING]: Online mode has been turned off in server.properties
+2018-03-30 [20:13:50] [Server thread/WARNING]: Xbox Live authentication is disabled.
+2018-03-30 [20:13:50] [Server thread/INFO]: Selected English (eng) as the base language
+2018-03-30 [20:13:50] [Server thread/INFO]: Opening server on 0.0.0.0:1000
+2018-03-30 [20:13:51] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading recipes...
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading resource packs...
+2018-03-30 [20:13:51] [Server thread/ERROR]: Could not load plugin 'NoFrameDrop': plugin exists
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading AdvancedKits v5.0b1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading AlwaysSpawn v2.2.3-3
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading Broadcaster v1.16
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading SClearLagg v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading CommandTracker v1.1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading EconomySell v2.0.7
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading EconomyShop v2.0.7
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading EssentialsPE v2.0.0
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading MagicWE v0.2.6
+2018-03-30 [20:13:51] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading ManyWorlds v2.1.0
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading MSpawns v1.5
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading NoFrameDrop v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading Op-Manager v4.4.0
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading PurePerms v1.3.7
+2018-03-30 [20:13:51] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-03-30 [20:13:51] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-03-30 [20:13:51] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-03-30 [20:13:51] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading ServerAuth v2.12
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading Slapper_(NPC) v1.1.VH
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) AuctionHouse v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) AutoInv v0.1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) Bar v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) BuyEchant v3
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) BuyFly_MCPE14 v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) ChatLogin v1.4
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) CustomAlerts v1.6
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) FactionsPro v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) MOTDShuffle v1.1.0
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) OpLogin v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) Trade v1.1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) VoteSV v1
+2018-03-30 [20:13:51] [Server thread/INFO]: Loading (Source) WorldProtect v2.2.0
+2018-03-30 [20:13:52] [Server thread/INFO]: Loading PureChat v1.4.0
+2018-03-30 [20:13:52] [Server thread/INFO]: Loading (Source) SkyBlock v2
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.3-3
+2018-03-30 [20:13:52] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling Broadcaster v1.16
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling SClearLagg v1
+2018-03-30 [20:13:52] [Server thread/INFO]: [SClearLagg] ClearLagg1 от Sergey Dertanз загружен
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling CommandTracker v1.1
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling MagicWE v0.2.6
+2018-03-30 [20:13:52] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling MSpawns v1.5
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling Op-Manager v4.4.0
+2018-03-30 [20:13:52] [Server thread/INFO]: [Op-Manager] has enabled
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling ServerAuth v2.12
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling ChatLogin v1.4
+2018-03-30 [20:13:52] [Server thread/INFO]: ♦Mεɠα SκγBɭσςκ♦ Plugin Enabled!
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling CustomAlerts v1.6
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling MOTDShuffle v1.1.0
+2018-03-30 [20:13:52] [Server thread/INFO]: [MOTDShuffle] has been activated!
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling WorldProtect v2.2.0
+2018-03-30 [20:13:52] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling SkyBlock v2
+2018-03-30 [20:13:52] [Server thread/NOTICE]: Level "sb" not found
+2018-03-30 [20:13:52] [Server thread/INFO]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi XxBoomer
+2018-03-30 [20:13:52] [Server thread/INFO]: Preparing level "Skyblock"
+2018-03-30 [20:13:52] [Server thread/INFO]: Preparing level "nether"
+2018-03-30 [20:13:52] [Server thread/INFO]: Preparing level "ender"
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling AdvancedKits v5.0b1
+2018-03-30 [20:13:52] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2018-03-30 [20:13:53] [Server thread/NOTICE]: [EconomyAPI] 
+2018-03-30 [20:13:53] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling EconomySell v2.0.7
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling EconomyShop v2.0.7
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling EssentialsPE v2.0.0
+2018-03-30 [20:13:53] [Server thread/INFO]: [EssentialsPE] Loading...
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling ManyWorlds v2.1.0
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling NoFrameDrop v1
+2018-03-30 [20:13:53] [Server thread/INFO]: NoFrameDrop MADE BY vk.com/frago9876543210
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:13:53] [Server thread/INFO]: [Fireworks_JJBH] PLUGIN BY jaciel14
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling PurePerms v1.3.7
+2018-03-30 [20:13:53] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling Slapper_(NPC) v1.1.VH
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling AuctionHouse v1
+2018-03-30 [20:13:53] [Server thread/INFO]: [AuctionHouse] Plugins Việt hóa by Phuongaz
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling AutoInv v0.1
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling Bar v1
+2018-03-30 [20:13:53] [Server thread/INFO]: [Bar] Đã bật
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling BuyEchant v3
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling BuyFly_MCPE14 v1
+2018-03-30 [20:13:53] [Server thread/INFO]: [BuyFly_MCPE14] BuyFly_MCPE14 Việt hóa!
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling FactionsPro v1
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling OpLogin v1
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling Trade v1.1
+2018-03-30 [20:13:53] [Server thread/INFO]: [Trade] --------------------
+ Trade => ON
+ --------------------
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling VoteSV v1
+2018-03-30 [20:13:53] [Server thread/INFO]: Enabling PureChat v1.4.0
+2018-03-30 [20:13:53] [Server thread/NOTICE]: [PureChat] FactionsPro-OLD support enabled.
+2018-03-30 [20:13:53] [Server thread/INFO]: Starting GS4 status listener
+2018-03-30 [20:13:53] [Server thread/INFO]: Setting query port to 1000
+2018-03-30 [20:13:53] [Server thread/INFO]: Query running on 0.0.0.0:1000
+2018-03-30 [20:13:53] [Server thread/INFO]: Default game type: Survival Mode
+2018-03-30 [20:13:53] [Server thread/INFO]: Done (2.979s)! For help, type "help" or "?"
+2018-03-30 [20:13:53] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:13:53] [Server thread/INFO]: En un minuto de eliminara el lagg
+2018-03-30 [20:13:53] [Server thread/INFO]: Se elimino 0 de lagg
+2018-03-30 [20:13:54] [Server thread/INFO]: [EssentialsPE] No new version found, you're using the latest version of EssentialsPE
+2018-03-30 [20:14:23] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:14:53] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:15:23] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:15:46] [Server thread/INFO]: [CommandTracker] <CONSOLE> /trade
+2018-03-30 [20:15:46] [Server thread/INFO]: -= Danh Sách Trade=-
+2018-03-30 [20:15:46] [Server thread/INFO]:  Mía[x64] đỏi lấy Bedrock [br]
+2018-03-30 [20:15:46] [Server thread/INFO]:  Bedrock[x5] đỏi lấy  SET-Bedrock [sbr]
+2018-03-30 [20:15:46] [Server thread/INFO]: /trade [item] đễ đỏi đồ nhé
+2018-03-30 [20:15:53] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:16:23] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:16:53] [Server thread/INFO]: En un minuto de eliminara el lagg
+2018-03-30 [20:16:53] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:17:21] [Server thread/NOTICE]: Player data not found for "phuongza", creating new profile
+2018-03-30 [20:17:21] [Server thread/INFO]: Phuongza[/27.65.21.160:58633] [ClientID: 205551894674893847] logged in with entity id 3 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:17:23] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:17:25] [Server thread/INFO]: •>[+] Người chơi Phuongza Đã vào server
+2018-03-30 [20:17:42] [Server thread/INFO]: [CommandTracker] <Phuongza> /say phupngkio
+2018-03-30 [20:17:42] [Server thread/NOTICE]: Player data not found for "jeff_the_killer4", creating new profile
+2018-03-30 [20:17:42] [Server thread/INFO]: Jeff_The_Killer4[/123.22.156.25:39377] [ClientID: 771345327029273862] logged in with entity id 8 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:17:45] [Server thread/INFO]: [CommandTracker] <Phuongza> /say phuongkio
+2018-03-30 [20:17:50] [Server thread/INFO]: •>[+] Người chơi Jeff_The_Killer4 Đã vào server
+2018-03-30 [20:17:53] [Server thread/INFO]: Se elimino 0 de lagg
+2018-03-30 [20:17:53] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:17:58] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say giahuy1223
+2018-03-30 [20:18:05] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say hi phuong
+2018-03-30 [20:18:05] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ hi phuong ⇋
+2018-03-30 [20:18:08] [Server thread/INFO]: [CommandTracker] <Phuongza> /say sv ms cập nhật
+2018-03-30 [20:18:08] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →sv ms cập nhật ←
+2018-03-30 [20:18:19] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say hèn j vào hk đc
+2018-03-30 [20:18:19] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ hèn j vào hk đc ⇋
+2018-03-30 [20:18:23] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:18:23] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ê 
+2018-03-30 [20:18:23] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ê  ⇋
+2018-03-30 [20:18:27] [Server thread/INFO]: [CommandTracker] <Phuongza> /say lỗi j báo nhé
+2018-03-30 [20:18:27] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →lỗi j báo nhé ←
+2018-03-30 [20:18:29] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say tpa qua tui đi
+2018-03-30 [20:18:29] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ tpa qua tui đi ⇋
+2018-03-30 [20:18:33] [Server thread/INFO]: [CommandTracker] <Phuongza> /say j
+2018-03-30 [20:18:33] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →j ←
+2018-03-30 [20:18:42] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp jeff
+2018-03-30 [20:18:42] [Server thread/INFO]: [Phuongza: Teleported Phuongza to Jeff_The_Killer4]
+2018-03-30 [20:18:53] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:18:57] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ấn sb auto nó zô zậy á
+2018-03-30 [20:18:57] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ấn sb auto nó zô zậy á ⇋
+2018-03-30 [20:19:00] [Server thread/INFO]: [CommandTracker] <Phuongza> /say =)) hôm qua nghịch
+2018-03-30 [20:19:00] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →=)) hôm qua nghịch ←
+2018-03-30 [20:19:06] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb clai.
+2018-03-30 [20:19:11] [Server thread/INFO]: [CommandTracker] <Phuongza> /say claim đi
+2018-03-30 [20:19:11] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →claim đi ←
+2018-03-30 [20:19:14] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /buyfly 
+2018-03-30 [20:19:16] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb claim
+2018-03-30 [20:19:22] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say thôi
+2018-03-30 [20:19:22] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ thôi ⇋
+2018-03-30 [20:19:23] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:19:37] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say sever cập nhật chữ đẹp
+2018-03-30 [20:19:37] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ sever cập nhật chữ đẹp ⇋
+2018-03-30 [20:19:38] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb auto
+2018-03-30 [20:19:44] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [20:19:53] [Server thread/INFO]: En un minuto de eliminara el lagg
+2018-03-30 [20:19:53] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:19:54] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ...../trade and /daugia
+2018-03-30 [20:19:54] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →...../trade and /daugia ←
+2018-03-30 [20:20:01] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade 
+2018-03-30 [20:20:15] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say mất cúp rồi
+2018-03-30 [20:20:15] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ mất cúp rồi ⇋
+2018-03-30 [20:20:19] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /daugia 
+2018-03-30 [20:20:22] [Server thread/INFO]: [CommandTracker] <Phuongza> /say .....trade có nghi chú đẹp
+2018-03-30 [20:20:22] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →.....trade có nghi chú đẹp ←
+2018-03-30 [20:20:23] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:20:33] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /trade 
+2018-03-30 [20:20:36] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say đù
+2018-03-30 [20:20:36] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ đù ⇋
+2018-03-30 [20:20:53] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:20:57] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say đẹp vồn
+2018-03-30 [20:20:57] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ đẹp vồn ⇋
+2018-03-30 [20:21:23] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:21:43] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 
+2018-03-30 [20:21:48] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 1
+2018-03-30 [20:21:53] [Server thread/INFO]: Se elimino 0 de lagg
+2018-03-30 [20:21:53] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:21:55] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 2
+2018-03-30 [20:22:03] [Server thread/INFO]: [CommandTracker] <Phuongza> /say mất đồ ầ
+2018-03-30 [20:22:03] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →mất đồ ầ ←
+2018-03-30 [20:22:03] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 3
+2018-03-30 [20:22:12] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 4
+2018-03-30 [20:22:21] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 5
+2018-03-30 [20:22:23] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:22:30] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 6
+2018-03-30 [20:22:53] [Server thread/INFO]: En un minuto de eliminara el lagg
+2018-03-30 [20:22:53] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:23:08] [Server thread/INFO]: [CommandTracker] <CONSOLE> /op phuongza
+2018-03-30 [20:23:08] [Server thread/INFO]: [CONSOLE: Opped Phuongza]
+2018-03-30 [20:23:19] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /buyec 17 5
+2018-03-30 [20:23:23] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:23:29] [Server thread/INFO]: [CommandTracker] <Phuongza> /dnop MinePro@123456789
+2018-03-30 [20:23:32] [Server thread/INFO]: [CommandTracker] <Phuongza> /say .
+2018-03-30 [20:23:32] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →. ←
+2018-03-30 [20:23:38] [Server thread/INFO]: [CommandTracker] <Phuongza> /say mất ko
+2018-03-30 [20:23:38] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →mất ko ←
+2018-03-30 [20:23:43] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp j
+2018-03-30 [20:23:43] [Server thread/INFO]: [Phuongza: Teleported Phuongza to Jeff_The_Killer4]
+2018-03-30 [20:23:50] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ây za
+2018-03-30 [20:23:50] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ây za ⇋
+2018-03-30 [20:23:53] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:24:00] [Server thread/INFO]: [CommandTracker] <Phuongza> /say mất đồ ko
+2018-03-30 [20:24:00] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →mất đồ ko ←
+2018-03-30 [20:24:14] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say mất cúp mà thôi khỏi
+2018-03-30 [20:24:14] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ mất cúp mà thôi khỏi ⇋
+2018-03-30 [20:24:23] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:24:28] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say máy farm của tui hư mợ rồi
+2018-03-30 [20:24:28] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ máy farm của tui hư mợ rồi ⇋
+2018-03-30 [20:24:48] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ko auto nhặt à
+2018-03-30 [20:24:48] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ko auto nhặt à ←
+2018-03-30 [20:24:53] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ukm
+2018-03-30 [20:24:53] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ukm ⇋
+2018-03-30 [20:24:53] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:25:02] [Server thread/INFO]: [CommandTracker] <Phuongza> /say off sv fix nhé
+2018-03-30 [20:25:02] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →off sv fix nhé ←
+2018-03-30 [20:25:07] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ukm
+2018-03-30 [20:25:07] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ukm ⇋
+2018-03-30 [20:25:15] [Server thread/WARNING]: Online mode has been turned off in server.properties
+2018-03-30 [20:25:15] [Server thread/WARNING]: Xbox Live authentication is disabled.
+2018-03-30 [20:25:15] [Server thread/INFO]: Selected English (eng) as the base language
+2018-03-30 [20:25:15] [Server thread/INFO]: Opening server on 0.0.0.0:1000
+2018-03-30 [20:25:15] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-03-30 [20:25:15] [Server thread/INFO]: Loading recipes...
+2018-03-30 [20:25:15] [Server thread/INFO]: Loading resource packs...
+2018-03-30 [20:25:15] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:1000!
+2018-03-30 [20:25:15] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2018-03-30 [20:25:15] [Server thread/EMERGENCY]: RakLib crashed!
+2018-03-30 [20:25:16] [Server thread/ERROR]: Could not load plugin 'NoFrameDrop': plugin exists
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading AdvancedKits v5.0b1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading AlwaysSpawn v2.2.3-3
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading Broadcaster v1.16
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading SClearLagg v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading CommandTracker v1.1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading EconomySell v2.0.7
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading EconomyShop v2.0.7
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading EssentialsPE v2.0.0
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading MagicWE v0.2.6
+2018-03-30 [20:25:16] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading ManyWorlds v2.1.0
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading MSpawns v1.5
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading NoFrameDrop v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading Op-Manager v4.4.0
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading PurePerms v1.3.7
+2018-03-30 [20:25:16] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-03-30 [20:25:16] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-03-30 [20:25:16] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-03-30 [20:25:16] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading ServerAuth v2.12
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading Slapper_(NPC) v1.1.VH
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) AuctionHouse v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) AutoInv v0.1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) Bar v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) BuyEchant v3
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) BuyFly_MCPE14 v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) ChatLogin v1.4
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) CustomAlerts v1.6
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) FactionsPro v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) MOTDShuffle v1.1.0
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) OpLogin v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) Trade v1.1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) VoteSV v1
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) WorldProtect v2.2.0
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading PureChat v1.4.0
+2018-03-30 [20:25:16] [Server thread/INFO]: Loading (Source) SkyBlock v2
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.3-3
+2018-03-30 [20:25:16] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling Broadcaster v1.16
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling SClearLagg v1
+2018-03-30 [20:25:16] [Server thread/INFO]: [SClearLagg] ClearLagg1 от Sergey Dertanз загружен
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling CommandTracker v1.1
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling MagicWE v0.2.6
+2018-03-30 [20:25:16] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling MSpawns v1.5
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling Op-Manager v4.4.0
+2018-03-30 [20:25:16] [Server thread/INFO]: [Op-Manager] has enabled
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling ServerAuth v2.12
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling ChatLogin v1.4
+2018-03-30 [20:25:16] [Server thread/INFO]: ♦Mεɠα SκγBɭσςκ♦ Plugin Enabled!
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling CustomAlerts v1.6
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling MOTDShuffle v1.1.0
+2018-03-30 [20:25:16] [Server thread/INFO]: [MOTDShuffle] has been activated!
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling WorldProtect v2.2.0
+2018-03-30 [20:25:16] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling SkyBlock v2
+2018-03-30 [20:25:16] [Server thread/NOTICE]: Level "sb" not found
+2018-03-30 [20:25:16] [Server thread/INFO]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi XxBoomer
+2018-03-30 [20:25:16] [Server thread/INFO]: Preparing level "Skyblock"
+2018-03-30 [20:25:16] [Server thread/INFO]: Preparing level "nether"
+2018-03-30 [20:25:16] [Server thread/INFO]: Preparing level "ender"
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling AdvancedKits v5.0b1
+2018-03-30 [20:25:16] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2018-03-30 [20:25:17] [Server thread/NOTICE]: [EconomyAPI] 
+2018-03-30 [20:25:17] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling EconomySell v2.0.7
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling EconomyShop v2.0.7
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling EssentialsPE v2.0.0
+2018-03-30 [20:25:17] [Server thread/INFO]: [EssentialsPE] Loading...
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling ManyWorlds v2.1.0
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling NoFrameDrop v1
+2018-03-30 [20:25:17] [Server thread/INFO]: NoFrameDrop MADE BY vk.com/frago9876543210
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:25:17] [Server thread/INFO]: [Fireworks_JJBH] PLUGIN BY jaciel14
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling PurePerms v1.3.7
+2018-03-30 [20:25:17] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling Slapper_(NPC) v1.1.VH
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling AuctionHouse v1
+2018-03-30 [20:25:17] [Server thread/INFO]: [AuctionHouse] Plugins Việt hóa by Phuongaz
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling AutoInv v0.1
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling Bar v1
+2018-03-30 [20:25:17] [Server thread/INFO]: [Bar] Đã bật
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling BuyEchant v3
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling BuyFly_MCPE14 v1
+2018-03-30 [20:25:17] [Server thread/INFO]: [BuyFly_MCPE14] BuyFly_MCPE14 Việt hóa!
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling FactionsPro v1
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling OpLogin v1
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling Trade v1.1
+2018-03-30 [20:25:17] [Server thread/INFO]: [Trade] --------------------
+ Trade => ON
+ --------------------
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling VoteSV v1
+2018-03-30 [20:25:17] [Server thread/INFO]: Enabling PureChat v1.4.0
+2018-03-30 [20:25:17] [Server thread/NOTICE]: [PureChat] FactionsPro-OLD support enabled.
+2018-03-30 [20:25:17] [Server thread/INFO]: Starting GS4 status listener
+2018-03-30 [20:25:17] [Server thread/INFO]: Setting query port to 1000
+2018-03-30 [20:25:17] [Server thread/INFO]: Query running on 0.0.0.0:1000
+2018-03-30 [20:25:17] [Server thread/INFO]: Default game type: Survival Mode
+2018-03-30 [20:25:17] [Server thread/INFO]: Done (2.372s)! For help, type "help" or "?"
+2018-03-30 [20:25:17] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2018-03-30 [20:25:17] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:25:17] [Server thread/INFO]: En un minuto de eliminara el lagg
+2018-03-30 [20:25:17] [Server thread/INFO]: Se elimino 0 de lagg
+2018-03-30 [20:25:18] [Server thread/INFO]: [EssentialsPE] No new version found, you're using the latest version of EssentialsPE
+2018-03-30 [20:29:20] [Server thread/WARNING]: Online mode has been turned off in server.properties
+2018-03-30 [20:29:20] [Server thread/WARNING]: Xbox Live authentication is disabled.
+2018-03-30 [20:29:20] [Server thread/INFO]: Selected English (eng) as the base language
+2018-03-30 [20:29:20] [Server thread/INFO]: Opening server on 0.0.0.0:1000
+2018-03-30 [20:29:20] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading recipes...
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading resource packs...
+2018-03-30 [20:29:20] [Server thread/ERROR]: Could not load plugin 'NoFrameDrop': plugin exists
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading AdvancedKits v5.0b1
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading AlwaysSpawn v2.2.3-3
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading Broadcaster v1.16
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading SClearLagg v1
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading CommandTracker v1.1
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading EconomySell v2.0.7
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading EconomyShop v2.0.7
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading EssentialsPE v2.0.0
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading MagicWE v0.2.6
+2018-03-30 [20:29:20] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading ManyWorlds v2.1.0
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading MSpawns v1.5
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading NoFrameDrop v1
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading Op-Manager v4.4.0
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:29:20] [Server thread/INFO]: Loading PurePerms v1.3.7
+2018-03-30 [20:29:20] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-03-30 [20:29:20] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-03-30 [20:29:20] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-03-30 [20:29:20] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading ServerAuth v2.12
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading Slapper_(NPC) v1.1.VH
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) AuctionHouse v1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) AutoInv v0.1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) AutoInv[NMH] v0.1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) Bar v1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) BuyEchant v3
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) BuyFly_MCPE14 v1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) ChatLogin v1.4
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) CustomAlerts v1.6
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) FactionsPro v1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) MOTDShuffle v1.1.0
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) OpLogin v1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) Trade v1.1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) VoteSV v1
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) WorldProtect v2.2.0
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading PureChat v1.4.0
+2018-03-30 [20:29:21] [Server thread/INFO]: Loading (Source) SkyBlock v2
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.3-3
+2018-03-30 [20:29:21] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling Broadcaster v1.16
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling SClearLagg v1
+2018-03-30 [20:29:21] [Server thread/INFO]: [SClearLagg] ClearLagg1 от Sergey Dertanз загружен
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling CommandTracker v1.1
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling MagicWE v0.2.6
+2018-03-30 [20:29:21] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling MSpawns v1.5
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling Op-Manager v4.4.0
+2018-03-30 [20:29:21] [Server thread/INFO]: [Op-Manager] has enabled
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling ServerAuth v2.12
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling ChatLogin v1.4
+2018-03-30 [20:29:21] [Server thread/INFO]: ♦Mεɠα SκγBɭσςκ♦ Plugin Enabled!
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling CustomAlerts v1.6
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling MOTDShuffle v1.1.0
+2018-03-30 [20:29:21] [Server thread/INFO]: [MOTDShuffle] has been activated!
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling WorldProtect v2.2.0
+2018-03-30 [20:29:21] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling SkyBlock v2
+2018-03-30 [20:29:21] [Server thread/NOTICE]: Level "sb" not found
+2018-03-30 [20:29:21] [Server thread/INFO]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi XxBoomer
+2018-03-30 [20:29:21] [Server thread/INFO]: Preparing level "Skyblock"
+2018-03-30 [20:29:21] [Server thread/INFO]: Preparing level "nether"
+2018-03-30 [20:29:21] [Server thread/INFO]: Preparing level "ender"
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling AdvancedKits v5.0b1
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2018-03-30 [20:29:21] [Server thread/NOTICE]: [EconomyAPI] 
+2018-03-30 [20:29:21] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling EconomySell v2.0.7
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling EconomyShop v2.0.7
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling EssentialsPE v2.0.0
+2018-03-30 [20:29:21] [Server thread/INFO]: [EssentialsPE] Loading...
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling ManyWorlds v2.1.0
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling NoFrameDrop v1
+2018-03-30 [20:29:21] [Server thread/INFO]: NoFrameDrop MADE BY vk.com/frago9876543210
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:29:21] [Server thread/INFO]: [Fireworks_JJBH] PLUGIN BY jaciel14
+2018-03-30 [20:29:21] [Server thread/INFO]: Enabling PurePerms v1.3.7
+2018-03-30 [20:29:22] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling Slapper_(NPC) v1.1.VH
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling AuctionHouse v1
+2018-03-30 [20:29:22] [Server thread/INFO]: [AuctionHouse] Plugins Việt hóa by Phuongaz
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling AutoInv v0.1
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling AutoInv[NMH] v0.1
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling Bar v1
+2018-03-30 [20:29:22] [Server thread/INFO]: [Bar] Đã bật
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling BuyEchant v3
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling BuyFly_MCPE14 v1
+2018-03-30 [20:29:22] [Server thread/INFO]: [BuyFly_MCPE14] BuyFly_MCPE14 Việt hóa!
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling FactionsPro v1
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling OpLogin v1
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling Trade v1.1
+2018-03-30 [20:29:22] [Server thread/INFO]: [Trade] --------------------
+ Trade => ON
+ --------------------
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling VoteSV v1
+2018-03-30 [20:29:22] [Server thread/INFO]: Enabling PureChat v1.4.0
+2018-03-30 [20:29:22] [Server thread/NOTICE]: [PureChat] FactionsPro-OLD support enabled.
+2018-03-30 [20:29:22] [Server thread/INFO]: Starting GS4 status listener
+2018-03-30 [20:29:22] [Server thread/INFO]: Setting query port to 1000
+2018-03-30 [20:29:22] [Server thread/INFO]: Query running on 0.0.0.0:1000
+2018-03-30 [20:29:22] [Server thread/INFO]: Default game type: Survival Mode
+2018-03-30 [20:29:22] [Server thread/INFO]: Done (2.553s)! For help, type "help" or "?"
+2018-03-30 [20:29:22] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:29:22] [Server thread/INFO]: En un minuto de eliminara el lagg
+2018-03-30 [20:29:22] [Server thread/INFO]: Se elimino 0 de lagg
+2018-03-30 [20:29:23] [Server thread/INFO]: [EssentialsPE] No new version found, you're using the latest version of EssentialsPE
+2018-03-30 [20:33:47] [Server thread/WARNING]: Online mode has been turned off in server.properties
+2018-03-30 [20:33:47] [Server thread/WARNING]: Xbox Live authentication is disabled.
+2018-03-30 [20:33:47] [Server thread/INFO]: Selected English (eng) as the base language
+2018-03-30 [20:33:47] [Server thread/INFO]: Opening server on 0.0.0.0:1000
+2018-03-30 [20:33:47] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading recipes...
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading resource packs...
+2018-03-30 [20:33:47] [Server thread/ERROR]: Could not load plugin 'NoFrameDrop': plugin exists
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading AdvancedKits v5.0b1
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading AlwaysSpawn v2.2.3-3
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading Broadcaster v1.16
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading SClearLagg v1
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading CommandTracker v1.1
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading EconomySell v2.0.7
+2018-03-30 [20:33:47] [Server thread/INFO]: Loading EconomyShop v2.0.7
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading EssentialsPE v2.0.0
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading MagicWE v0.2.6
+2018-03-30 [20:33:48] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading ManyWorlds v2.1.0
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading MSpawns v1.5
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading NoFrameDrop v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading Op-Manager v4.4.0
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading PurePerms v1.3.7
+2018-03-30 [20:33:48] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-03-30 [20:33:48] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-03-30 [20:33:48] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-03-30 [20:33:48] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading ServerAuth v2.12
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading Slapper_(NPC) v1.1.VH
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) AuctionHouse v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) AutoInv v0.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) AutoInv[NMH] v0.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) Bar v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) BuyEchant v3
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) BuyFly_MCPE14 v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) ChatLogin v1.4
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) CustomAlerts v1.6
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) FactionsPro v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) MOTDShuffle v1.1.0
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) OpLogin v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) Trade v1.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) VoteSV v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) WorldProtect v2.2.0
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading PureChat v1.4.0
+2018-03-30 [20:33:48] [Server thread/INFO]: Loading (Source) SkyBlock v2
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.3-3
+2018-03-30 [20:33:48] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling Broadcaster v1.16
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling SClearLagg v1
+2018-03-30 [20:33:48] [Server thread/INFO]: [SClearLagg] ClearLagg1 от Sergey Dertanз загружен
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling CommandTracker v1.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling MagicWE v0.2.6
+2018-03-30 [20:33:48] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling MSpawns v1.5
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling Op-Manager v4.4.0
+2018-03-30 [20:33:48] [Server thread/INFO]: [Op-Manager] has enabled
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling ServerAuth v2.12
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling ChatLogin v1.4
+2018-03-30 [20:33:48] [Server thread/INFO]: ♦Mεɠα SκγBɭσςκ♦ Plugin Enabled!
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling CustomAlerts v1.6
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling MOTDShuffle v1.1.0
+2018-03-30 [20:33:48] [Server thread/INFO]: [MOTDShuffle] has been activated!
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling WorldProtect v2.2.0
+2018-03-30 [20:33:48] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling SkyBlock v2
+2018-03-30 [20:33:48] [Server thread/NOTICE]: Level "sb" not found
+2018-03-30 [20:33:48] [Server thread/INFO]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi XxBoomer
+2018-03-30 [20:33:48] [Server thread/INFO]: Preparing level "Skyblock"
+2018-03-30 [20:33:48] [Server thread/INFO]: Preparing level "nether"
+2018-03-30 [20:33:48] [Server thread/INFO]: Preparing level "ender"
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling AdvancedKits v5.0b1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2018-03-30 [20:33:48] [Server thread/NOTICE]: [EconomyAPI] 
+2018-03-30 [20:33:48] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling EconomySell v2.0.7
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling EconomyShop v2.0.7
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling EssentialsPE v2.0.0
+2018-03-30 [20:33:48] [Server thread/INFO]: [EssentialsPE] Loading...
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling ManyWorlds v2.1.0
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling NoFrameDrop v1
+2018-03-30 [20:33:48] [Server thread/INFO]: NoFrameDrop MADE BY vk.com/frago9876543210
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [20:33:48] [Server thread/INFO]: [Fireworks_JJBH] PLUGIN BY jaciel14
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling PurePerms v1.3.7
+2018-03-30 [20:33:48] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling Slapper_(NPC) v1.1.VH
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling AuctionHouse v1
+2018-03-30 [20:33:48] [Server thread/INFO]: [AuctionHouse] Plugins Việt hóa by Phuongaz
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling AutoInv v0.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling AutoInv[NMH] v0.1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling Bar v1
+2018-03-30 [20:33:48] [Server thread/INFO]: [Bar] Đã bật
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling BuyEchant v3
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling BuyFly_MCPE14 v1
+2018-03-30 [20:33:48] [Server thread/INFO]: [BuyFly_MCPE14] BuyFly_MCPE14 Việt hóa!
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling FactionsPro v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling OpLogin v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling Trade v1.1
+2018-03-30 [20:33:48] [Server thread/INFO]: [Trade] --------------------
+ Trade => ON
+ --------------------
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling VoteSV v1
+2018-03-30 [20:33:48] [Server thread/INFO]: Enabling PureChat v1.4.0
+2018-03-30 [20:33:48] [Server thread/NOTICE]: [PureChat] FactionsPro-OLD support enabled.
+2018-03-30 [20:33:49] [Server thread/INFO]: Starting GS4 status listener
+2018-03-30 [20:33:49] [Server thread/INFO]: Setting query port to 1000
+2018-03-30 [20:33:49] [Server thread/INFO]: Query running on 0.0.0.0:1000
+2018-03-30 [20:33:49] [Server thread/INFO]: Default game type: Survival Mode
+2018-03-30 [20:33:49] [Server thread/INFO]: Done (2.09s)! For help, type "help" or "?"
+2018-03-30 [20:33:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:33:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:33:49] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [20:33:49] [Server thread/INFO]: [EssentialsPE] No new version found, you're using the latest version of EssentialsPE
+2018-03-30 [20:34:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:34:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:35:07] [Server thread/INFO]: Phuongza[/27.65.21.160:58633] [ClientID: 205551894674893847] logged in with entity id 3 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:35:11] [Server thread/INFO]: •>[+] Người chơi Phuongza Đã vào server
+2018-03-30 [20:35:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:35:25] [Server thread/INFO]: [CommandTracker] <Phuongza> /say phuongkio
+2018-03-30 [20:35:38] [Server thread/INFO]: [CommandTracker] <Phuongza> /dnop MinePro@123456789
+2018-03-30 [20:35:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:35:51] [Server thread/INFO]: [CommandTracker] <Phuongza> /warp shop
+2018-03-30 [20:35:55] [Server thread/INFO]: dragon1927[/42.112.239.59:20978] [ClientID: -5289303947126266405] logged in with entity id 9 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:35:58] [Server thread/INFO]: •>[+] Người chơi dragon1927 Đã vào server
+2018-03-30 [20:36:03] [Server thread/INFO]: [CommandTracker] <Phuongza> /gamemode 1
+2018-03-30 [20:36:10] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb home
+2018-03-30 [20:36:15] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb h
+2018-03-30 [20:36:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:36:29] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb home
+2018-03-30 [20:36:31] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb claim
+2018-03-30 [20:36:37] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb auto
+2018-03-30 [20:36:46] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb claim
+2018-03-30 [20:36:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:36:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:36:52] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb help
+2018-03-30 [20:36:54] [Server thread/INFO]: •>[z-]  Nguời choi dragon1927 Đã thoát server
+2018-03-30 [20:36:54] [Server thread/INFO]: dragon1927[/42.112.239.59:20978] logged out due to Login Timeout
+2018-03-30 [20:37:04] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb home
+2018-03-30 [20:37:17] [Server thread/INFO]: Jeff_The_Killer4[/123.22.156.25:53075] [ClientID: 771345327029273862] logged in with entity id 12 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:37:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:37:22] [Server thread/INFO]: dragon1927[/42.112.239.59:20978] [ClientID: -5289303947126266405] logged in with entity id 13 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:37:24] [Server thread/INFO]: •>[+] Người chơi Jeff_The_Killer4 Đã vào server
+2018-03-30 [20:37:25] [Server thread/INFO]: •>[+] Người chơi dragon1927 Đã vào server
+2018-03-30 [20:37:27] [Server thread/INFO]: [CommandTracker] <Phuongza> /say .
+2018-03-30 [20:37:27] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →. ←
+2018-03-30 [20:37:32] [Server thread/INFO]: [CommandTracker] <Phuongza> /gamemode 0
+2018-03-30 [20:37:32] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say giahuy1223
+2018-03-30 [20:37:35] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say hello
+2018-03-30 [20:37:35] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ hello ⇋
+2018-03-30 [20:37:38] [Server thread/INFO]: [CommandTracker] <dragon1927> /say herobrine
+2018-03-30 [20:37:38] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say is me
+2018-03-30 [20:37:38] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ is me ⇋
+2018-03-30 [20:37:42] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [20:37:43] [Server thread/INFO]: [CommandTracker] <Phuongza> /say hmm
+2018-03-30 [20:37:43] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →hmm ←
+2018-03-30 [20:37:49] [Server thread/INFO]: • Đã dọn 3 rác •
+2018-03-30 [20:37:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:37:57] [Server thread/INFO]: [CommandTracker] <Phuongza> /say thôi chơi đở mai fix nhặt đồ nha
+2018-03-30 [20:37:57] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →thôi chơi đở mai fix nhặt đồ nha ←
+2018-03-30 [20:37:57] [Server thread/INFO]: [CommandTracker] <dragon1927> /help 
+2018-03-30 [20:38:04] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ukm
+2018-03-30 [20:38:04] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ukm ⇋
+2018-03-30 [20:38:08] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa phuo
+2018-03-30 [20:38:09] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb help
+2018-03-30 [20:38:16] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb h
+2018-03-30 [20:38:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:38:21] [Server thread/INFO]: [CommandTracker] <Phuongza> /tpaccept 
+2018-03-30 [20:38:42] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say làm j đây
+2018-03-30 [20:38:42] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ làm j đây ⇋
+2018-03-30 [20:38:42] [Server thread/INFO]: [CommandTracker] <dragon1927> /say jeff
+2018-03-30 [20:38:42] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ jeff ⇋
+2018-03-30 [20:38:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:38:51] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say hửm
+2018-03-30 [20:38:51] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ hửm ⇋
+2018-03-30 [20:39:02] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ek
+2018-03-30 [20:39:02] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ek ←
+2018-03-30 [20:39:04] [Server thread/INFO]: [CommandTracker] <dragon1927> /say warp bạn là j
+2018-03-30 [20:39:04] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ warp bạn là j ⇋
+2018-03-30 [20:39:13] [Server thread/INFO]: [CommandTracker] <dragon1927> /daugia 
+2018-03-30 [20:39:17] [Server thread/INFO]: [CommandTracker] <Phuongza> /say Bật Lassic đi
+2018-03-30 [20:39:17] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →Bật Lassic đi ←
+2018-03-30 [20:39:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:39:19] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say sb warp 11;-6
+2018-03-30 [20:39:19] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ sb warp 11;-6 ⇋
+2018-03-30 [20:39:26] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say là sao
+2018-03-30 [20:39:26] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ là sao ⇋
+2018-03-30 [20:39:32] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [20:39:38] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say 11;-1
+2018-03-30 [20:39:38] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ 11;-1 ⇋
+2018-03-30 [20:39:39] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb warp 11;6
+2018-03-30 [20:39:44] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa dra
+2018-03-30 [20:39:45] [Server thread/INFO]: [CommandTracker] <Phuongza> /say cài đặc cấu hình
+2018-03-30 [20:39:45] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →cài đặc cấu hình ←
+2018-03-30 [20:39:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:39:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:39:51] [Server thread/INFO]: [CommandTracker] <Phuongza> /say Win 10 ấy
+2018-03-30 [20:39:51] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →Win 10 ấy ←
+2018-03-30 [20:39:52] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say làm j
+2018-03-30 [20:39:52] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ làm j ⇋
+2018-03-30 [20:40:00] [Server thread/INFO]: [CommandTracker] <Phuongza> /say cho xem này
+2018-03-30 [20:40:00] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →cho xem này ←
+2018-03-30 [20:40:04] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb warp 11;-6
+2018-03-30 [20:40:08] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say cài j đây
+2018-03-30 [20:40:08] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ cài j đây ⇋
+2018-03-30 [20:40:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:40:19] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb warp 11;-1
+2018-03-30 [20:40:21] [Server thread/INFO]: [CommandTracker] <Phuongza> /gamemode 1
+2018-03-30 [20:40:35] [Server thread/INFO]: [CommandTracker] <Phuongza> /say cài đặc
+2018-03-30 [20:40:35] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →cài đặc ←
+2018-03-30 [20:40:48] [Server thread/INFO]: [CommandTracker] <dragon1927> /sethome jeff
+2018-03-30 [20:40:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:40:51] [Server thread/INFO]: [CommandTracker] <Phuongza> /say hìh ảh
+2018-03-30 [20:40:51] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →hìh ảh ←
+2018-03-30 [20:40:54] [Server thread/INFO]: [CommandTracker] <Phuongza> /say nân cao
+2018-03-30 [20:40:54] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →nân cao ←
+2018-03-30 [20:41:04] [Server thread/INFO]: [CommandTracker] <Phuongza> /say chỉnh Pocket thành Lassic
+2018-03-30 [20:41:04] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →chỉnh Pocket thành Lassic ←
+2018-03-30 [20:41:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:41:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:41:49] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [20:42:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:42:22] [Server thread/INFO]: [CommandTracker] <dragon1927> /say  /daugia list
+2018-03-30 [20:42:22] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌  /daugia list ⇋
+2018-03-30 [20:42:40] [Server thread/INFO]: [CommandTracker] <dragon1927> /daugia list
+2018-03-30 [20:42:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:42:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:43:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:43:24] [Server thread/INFO]: [CommandTracker] <dragon1927> /say ê jeff
+2018-03-30 [20:43:24] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ ê jeff ⇋
+2018-03-30 [20:43:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:44:02] [Server thread/INFO]: [CommandTracker] <Phuongza> /say j
+2018-03-30 [20:44:02] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →j ←
+2018-03-30 [20:44:10] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade 
+2018-03-30 [20:44:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:44:24] [Server thread/INFO]: [CommandTracker] <dragon1927> /say phuongza warp bạn là j
+2018-03-30 [20:44:24] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ phuongza warp bạn là j ⇋
+2018-03-30 [20:44:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:45:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:45:40] [Server thread/INFO]: •>[z-]  Nguời choi dragon1927 Đã thoát server
+2018-03-30 [20:45:40] [Server thread/INFO]: dragon1927[/42.112.239.59:20978] logged out due to client disconnect
+2018-03-30 [20:45:47] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] [ClientID: 3375863942457230610] logged in with entity id 24 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:45:49] [Server thread/INFO]: Jeff_The_Killer4 is now AFK
+2018-03-30 [20:45:49] [Server thread/INFO]: GirlLove is now AFK
+2018-03-30 [20:45:49] [Server thread/INFO]: • Đã dọn 1 rác •
+2018-03-30 [20:45:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:45:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:45:52] [Server thread/INFO]: •>[+] Người chơi GirlLove Đã vào server
+2018-03-30 [20:46:03] [Server thread/INFO]: •>[z-]  Nguời choi Phuongza Đã thoát server
+2018-03-30 [20:46:03] [Server thread/INFO]: Phuongza[/27.65.21.160:58633] logged out due to timeout
+2018-03-30 [20:46:10] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp je
+2018-03-30 [20:46:16] [Server thread/INFO]: [CommandTracker] <GirlLove> /fly 
+2018-03-30 [20:46:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:46:24] [Server thread/INFO]: [CommandTracker] <GirlLove> /say huyenttb
+2018-03-30 [20:46:24] [Server thread/INFO]: GirlLove is no longer AFK
+2018-03-30 [20:46:27] [Server thread/INFO]: [CommandTracker] <GirlLove> /fly 
+2018-03-30 [20:46:31] [Server thread/INFO]: Phuongza[/27.65.21.160:50528] [ClientID: 205551894674893847] logged in with entity id 45 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:46:32] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp j
+2018-03-30 [20:46:32] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Jeff_The_Killer4]
+2018-03-30 [20:46:34] [Server thread/INFO]: •>[+] Người chơi Phuongza Đã vào server
+2018-03-30 [20:46:41] [Server thread/INFO]: [CommandTracker] <Phuongza> /say phuongkio
+2018-03-30 [20:46:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:46:51] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp phu
+2018-03-30 [20:46:51] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [20:46:52] [Server thread/INFO]: [CommandTracker] <Phuongza> /dnop MinePro@123456789
+2018-03-30 [20:46:58] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp j
+2018-03-30 [20:46:58] [Server thread/INFO]: [Phuongza: Teleported Phuongza to Jeff_The_Killer4]
+2018-03-30 [20:47:10] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp phu
+2018-03-30 [20:47:10] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [20:47:16] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ai biết chỉnh sag Win 10 t cho coi này nè
+2018-03-30 [20:47:16] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ai biết chỉnh sag Win 10 t cho coi này nè ←
+2018-03-30 [20:47:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:47:20] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade 
+2018-03-30 [20:47:33] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade sbr
+2018-03-30 [20:47:36] [Server thread/INFO]: [CommandTracker] <GirlLove> /say win 10 là j má
+2018-03-30 [20:47:36] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟win 10 là j má
+2018-03-30 [20:47:42] [Server thread/INFO]: [CommandTracker] <Phuongza> /say lassic
+2018-03-30 [20:47:42] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →lassic ←
+2018-03-30 [20:47:48] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade sbr
+2018-03-30 [20:47:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:47:58] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade setbr
+2018-03-30 [20:48:10] [Server thread/INFO]: [CommandTracker] <GirlLove> /say vip VI dc gmc k
+2018-03-30 [20:48:10] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟vip VI dc gmc k
+2018-03-30 [20:48:14] [Server thread/INFO]: [CommandTracker] <Phuongza> /say đệch .... trade Phải làm lại
+2018-03-30 [20:48:14] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →đệch .... trade Phải làm lại ←
+2018-03-30 [20:48:17] [Server thread/INFO]: [CommandTracker] <Phuongza> /say chã biết
+2018-03-30 [20:48:17] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →chã biết ←
+2018-03-30 [20:48:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:48:23] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:49691] [ClientID: -8761601517533342457] logged in with entity id 46 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:48:23] [Server thread/INFO]: [CommandTracker] <GirlLove> /say thử đi
+2018-03-30 [20:48:23] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟thử đi
+2018-03-30 [20:48:25] [Server thread/INFO]: •>[+] Người chơi Scopion2003VN Đã vào server
+2018-03-30 [20:48:34] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade 
+2018-03-30 [20:48:43] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say AnhDuc2003VN
+2018-03-30 [20:48:45] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say hrllo
+2018-03-30 [20:48:45] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟hrllo
+2018-03-30 [20:48:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:48:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:48:49] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /sb h
+2018-03-30 [20:48:55] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade list
+2018-03-30 [20:49:03] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /daugia 
+2018-03-30 [20:49:06] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb home
+2018-03-30 [20:49:18] [Server thread/INFO]: [CommandTracker] <Phuongza> /say how to thử
+2018-03-30 [20:49:18] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →how to thử ←
+2018-03-30 [20:49:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:49:20] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /daugia list
+2018-03-30 [20:49:35] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb h 2
+2018-03-30 [20:49:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:49:49] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [20:49:56] [Server thread/INFO]: •>[z-]  Nguời choi GirlLove Đã thoát server
+2018-03-30 [20:49:56] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] logged out due to client disconnect
+2018-03-30 [20:49:57] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say đang quay
+2018-03-30 [20:49:57] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟đang quay
+2018-03-30 [20:50:04] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ...
+2018-03-30 [20:50:04] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →... ←
+2018-03-30 [20:50:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:50:23] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] [ClientID: 3375863942457230610] logged in with entity id 204 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:50:27] [Server thread/INFO]: •>[+] Người chơi GirlLove Đã vào server
+2018-03-30 [20:50:32] [Server thread/INFO]: [CommandTracker] <Phuongza> /say đễ sv fix /trade
+2018-03-30 [20:50:32] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →đễ sv fix /trade ←
+2018-03-30 [20:50:37] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb h 2
+2018-03-30 [20:50:41] [Server thread/INFO]: [CommandTracker] <GirlLove> /say khuya r fix dc k
+2018-03-30 [20:50:41] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟khuya r fix dc k
+2018-03-30 [20:50:49] [Server thread/INFO]: •>[z-]  Nguời choi Jeff_The_Killer4 Đã thoát server
+2018-03-30 [20:50:49] [Server thread/INFO]: Jeff_The_Killer4[/123.22.156.25:53075] logged out due to You have been kicked for idling more than 5 minutes
+2018-03-30 [20:50:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:51:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:51:34] [Server thread/INFO]: [CommandTracker] <GirlLove> /fly 
+2018-03-30 [20:51:40] [Server thread/INFO]: [CommandTracker] <Phuongza> /say mai rồi fix 
+2018-03-30 [20:51:40] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →mai rồi fix  ←
+2018-03-30 [20:51:43] [Server thread/INFO]: [CommandTracker] <Phuongza> /say h mệt quá
+2018-03-30 [20:51:43] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →h mệt quá ←
+2018-03-30 [20:51:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:51:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:52:08] [Server thread/INFO]: [CommandTracker] <GirlLove> /say .-.
+2018-03-30 [20:52:08] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟.-.
+2018-03-30 [20:52:10] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ok :3
+2018-03-30 [20:52:10] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ok :3
+2018-03-30 [20:52:14] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp s
+2018-03-30 [20:52:14] [Server thread/INFO]: [Phuongza: Teleported Phuongza to Scopion2003VN]
+2018-03-30 [20:52:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:52:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:53:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:53:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:53:49] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [20:54:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:54:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:54:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:55:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:55:20] [Server thread/INFO]: [CommandTracker] <Phuongza> /say t.
+2018-03-30 [20:55:20] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →t. ←
+2018-03-30 [20:55:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:56:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:56:40] [Server thread/INFO]: [CommandTracker] <Phuongza> /say có chơi ko fix sv ?
+2018-03-30 [20:56:40] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →có chơi ko fix sv ? ←
+2018-03-30 [20:56:49] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:57:19] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [20:57:49] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [20:57:49] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [20:57:49] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [20:58:19] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [20:58:52] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ey phuong
+2018-03-30 [20:58:52] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ey phuong
+2018-03-30 [20:59:13] [Server thread/INFO]: •>[z-]  Nguời choi Phuongza Đã thoát server
+2018-03-30 [20:59:13] [Server thread/INFO]: Phuongza[/27.65.21.160:50528] logged out due to timeout
+2018-03-30 [20:59:13] [Server thread/INFO]: •>[z-]  Nguời choi GirlLove Đã thoát server
+2018-03-30 [20:59:13] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] logged out due to timeout
+2018-03-30 [20:59:25] [Server thread/INFO]: •>[z-]  Nguời choi Scopion2003VN Đã thoát server
+2018-03-30 [20:59:25] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:49691] logged out due to timeout
+2018-03-30 [20:59:31] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] [ClientID: 3375863942457230610] logged in with entity id 420 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [20:59:32] [Server thread/INFO]: GirlLove is now AFK
+2018-03-30 [20:59:32] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [20:59:35] [Server thread/INFO]: •>[+] Người chơi GirlLove Đã vào server
+2018-03-30 [20:59:44] [Server thread/INFO]: [CommandTracker] <GirlLove> /say phuong
+2018-03-30 [20:59:44] [Server thread/INFO]: GirlLove is no longer AFK
+2018-03-30 [20:59:44] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟phuong
+2018-03-30 [20:59:49] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb h 2
+2018-03-30 [21:00:02] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:00:16] [Server thread/INFO]: [CommandTracker] <GirlLove> /say Phuong
+2018-03-30 [21:00:16] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟Phuong
+2018-03-30 [21:00:23] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:49691] [ClientID: -8761601517533342457] logged in with entity id 424 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:00:24] [Server thread/INFO]: [CommandTracker] <GirlLove> /fly 
+2018-03-30 [21:00:26] [Server thread/INFO]: •>[+] Người chơi Scopion2003VN Đã vào server
+2018-03-30 [21:00:29] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say v
+2018-03-30 [21:00:29] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟v
+2018-03-30 [21:00:32] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:00:36] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /sb h
+2018-03-30 [21:00:49] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade doi
+2018-03-30 [21:00:56] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade doi br
+2018-03-30 [21:01:02] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:01:32] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:01:32] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:02:27] [Server thread/INFO]: Phuongza[/27.65.21.160:50528] [ClientID: 205551894674893847] logged in with entity id 575 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:02:29] [Server thread/INFO]: •>[z-]  Nguời choi Scopion2003VN Đã thoát server
+2018-03-30 [21:02:29] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:49691] logged out due to timeout
+2018-03-30 [21:02:31] [Server thread/INFO]: •>[+] Người chơi Phuongza Đã vào server
+2018-03-30 [21:02:36] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:49691] [ClientID: -8761601517533342457] logged in with entity id 577 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:02:39] [Server thread/INFO]: •>[+] Người chơi Scopion2003VN Đã vào server
+2018-03-30 [21:02:41] [Server thread/INFO]: [CommandTracker] <GirlLove> /say Phuong
+2018-03-30 [21:02:41] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟Phuong
+2018-03-30 [21:02:43] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:02:46] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /sb h
+2018-03-30 [21:02:53] [Server thread/INFO]: [CommandTracker] <Phuongza> /say phuongkio
+2018-03-30 [21:03:02] [Server thread/INFO]: [CommandTracker] <Phuongza> /dnop MinePro@123456789
+2018-03-30 [21:03:03] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade sbr
+2018-03-30 [21:03:05] [Server thread/INFO]: [CommandTracker] <Phuongza> /say j
+2018-03-30 [21:03:05] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →j ←
+2018-03-30 [21:03:11] [Server thread/INFO]: [CommandTracker] <GirlLove> /say sao để trade
+2018-03-30 [21:03:11] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟sao để trade
+2018-03-30 [21:03:13] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:03:13] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [21:03:23] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade doi sbr
+2018-03-30 [21:03:31] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade sbr
+2018-03-30 [21:03:41] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade [sbr]
+2018-03-30 [21:03:43] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:04:04] [Server thread/INFO]: [CommandTracker] <Phuongza> /say chưa fix
+2018-03-30 [21:04:04] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →chưa fix ←
+2018-03-30 [21:04:05] [Server thread/INFO]: [CommandTracker] <GirlLove> /say trade setbbedrock í
+2018-03-30 [21:04:05] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟trade setbbedrock í
+2018-03-30 [21:04:12] [Server thread/INFO]: [CommandTracker] <GirlLove> /say tui muốn đổi
+2018-03-30 [21:04:12] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟tui muốn đổi
+2018-03-30 [21:04:13] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:04:16] [Server thread/INFO]: [CommandTracker] <Phuongza> /say Cần stop 5 giây
+2018-03-30 [21:04:16] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →Cần stop 5 giây ←
+2018-03-30 [21:04:20] [Server thread/INFO]: [CommandTracker] <GirlLove> /daugia 
+2018-03-30 [21:04:22] [Server thread/INFO]: [CommandTracker] <Phuongza> /say vô lại nhé
+2018-03-30 [21:04:22] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →vô lại nhé ←
+2018-03-30 [21:04:25] [Server thread/INFO]: [CommandTracker] <GirlLove> /say oki
+2018-03-30 [21:04:25] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟oki
+2018-03-30 [21:04:32] [Server thread/INFO]: •>[z-]  Nguời choi GirlLove Đã thoát server
+2018-03-30 [21:04:32] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] logged out due to client disconnect
+2018-03-30 [21:04:32] [Server thread/INFO]: [CommandTracker] <Phuongza> /say mà khoan
+2018-03-30 [21:04:32] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →mà khoan ←
+2018-03-30 [21:04:54] [Server thread/WARNING]: Online mode has been turned off in server.properties
+2018-03-30 [21:04:54] [Server thread/WARNING]: Xbox Live authentication is disabled.
+2018-03-30 [21:04:54] [Server thread/INFO]: Selected English (eng) as the base language
+2018-03-30 [21:04:54] [Server thread/INFO]: Opening server on 0.0.0.0:1000
+2018-03-30 [21:04:55] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading recipes...
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading resource packs...
+2018-03-30 [21:04:55] [Server thread/ERROR]: Could not load plugin 'NoFrameDrop': plugin exists
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading AdvancedKits v5.0b1
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading AlwaysSpawn v2.2.3-3
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading Broadcaster v1.16
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading SClearLagg v1
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading CommandTracker v1.1
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading EconomySell v2.0.7
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading EconomyShop v2.0.7
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading EssentialsPE v2.0.0
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading MagicWE v0.2.6
+2018-03-30 [21:04:55] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading ManyWorlds v2.1.0
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading MSpawns v1.5
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading NoFrameDrop v1
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading Op-Manager v4.4.0
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [21:04:55] [Server thread/INFO]: Loading PurePerms v1.3.7
+2018-03-30 [21:04:55] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-03-30 [21:04:56] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-03-30 [21:04:56] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-03-30 [21:04:56] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading ServerAuth v2.12
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading Slapper_(NPC) v1.1.VH
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) AuctionHouse v1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) AutoInv v0.1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) AutoInv[NMH] v0.1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) Bar v1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) BuyEchant v3
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) BuyFly_MCPE14 v1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) ChatLogin v1.4
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) CustomAlerts v1.6
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) FactionsPro v1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) MOTDShuffle v1.1.0
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) OpLogin v1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) Trade v1.1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) VoteSV v1
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) WorldProtect v2.2.0
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading PureChat v1.4.0
+2018-03-30 [21:04:56] [Server thread/INFO]: Loading (Source) SkyBlock v2
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.3-3
+2018-03-30 [21:04:56] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling Broadcaster v1.16
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling SClearLagg v1
+2018-03-30 [21:04:56] [Server thread/INFO]: [SClearLagg] ClearLagg1 от Sergey Dertanз загружен
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling CommandTracker v1.1
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling MagicWE v0.2.6
+2018-03-30 [21:04:56] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling MSpawns v1.5
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling Op-Manager v4.4.0
+2018-03-30 [21:04:56] [Server thread/INFO]: [Op-Manager] has enabled
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling ServerAuth v2.12
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling ChatLogin v1.4
+2018-03-30 [21:04:56] [Server thread/INFO]: ♦Mεɠα SκγBɭσςκ♦ Plugin Enabled!
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling CustomAlerts v1.6
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling MOTDShuffle v1.1.0
+2018-03-30 [21:04:56] [Server thread/INFO]: [MOTDShuffle] has been activated!
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling WorldProtect v2.2.0
+2018-03-30 [21:04:56] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-03-30 [21:04:56] [Server thread/INFO]: Enabling SkyBlock v2
+2018-03-30 [21:04:56] [Server thread/NOTICE]: Level "sb" not found
+2018-03-30 [21:04:56] [Server thread/INFO]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi XxBoomer
+2018-03-30 [21:04:56] [Server thread/INFO]: Preparing level "Skyblock"
+2018-03-30 [21:04:57] [Server thread/INFO]: Preparing level "nether"
+2018-03-30 [21:04:57] [Server thread/INFO]: Preparing level "ender"
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling AdvancedKits v5.0b1
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2018-03-30 [21:04:57] [Server thread/NOTICE]: [EconomyAPI] 
+2018-03-30 [21:04:57] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling EconomySell v2.0.7
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling EconomyShop v2.0.7
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling EssentialsPE v2.0.0
+2018-03-30 [21:04:57] [Server thread/INFO]: [EssentialsPE] Loading...
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling ManyWorlds v2.1.0
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling NoFrameDrop v1
+2018-03-30 [21:04:57] [Server thread/INFO]: NoFrameDrop MADE BY vk.com/frago9876543210
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [21:04:57] [Server thread/INFO]: [Fireworks_JJBH] PLUGIN BY jaciel14
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling PurePerms v1.3.7
+2018-03-30 [21:04:57] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling Slapper_(NPC) v1.1.VH
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling AuctionHouse v1
+2018-03-30 [21:04:57] [Server thread/INFO]: [AuctionHouse] Plugins Việt hóa by Phuongaz
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling AutoInv v0.1
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling AutoInv[NMH] v0.1
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling Bar v1
+2018-03-30 [21:04:57] [Server thread/INFO]: [Bar] Đã bật
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling BuyEchant v3
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling BuyFly_MCPE14 v1
+2018-03-30 [21:04:57] [Server thread/INFO]: [BuyFly_MCPE14] BuyFly_MCPE14 Việt hóa!
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling FactionsPro v1
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling OpLogin v1
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling Trade v1.1
+2018-03-30 [21:04:57] [Server thread/INFO]: [Trade] --------------------
+ Trade Remake All Item by Phuongaz => ON
+ --------------------
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling VoteSV v1
+2018-03-30 [21:04:57] [Server thread/INFO]: Enabling PureChat v1.4.0
+2018-03-30 [21:04:57] [Server thread/NOTICE]: [PureChat] FactionsPro-OLD support enabled.
+2018-03-30 [21:04:58] [Server thread/INFO]: Starting GS4 status listener
+2018-03-30 [21:04:58] [Server thread/INFO]: Setting query port to 1000
+2018-03-30 [21:04:58] [Server thread/INFO]: Query running on 0.0.0.0:1000
+2018-03-30 [21:04:58] [Server thread/INFO]: Default game type: Survival Mode
+2018-03-30 [21:04:58] [Server thread/INFO]: Done (4.959s)! For help, type "help" or "?"
+2018-03-30 [21:04:58] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:04:58] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:04:58] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [21:04:58] [Server thread/INFO]: [EssentialsPE] No new version found, you're using the latest version of EssentialsPE
+2018-03-30 [21:05:12] [Server thread/INFO]: Phuongza[/27.65.21.160:50528] [ClientID: 205551894674893847] logged in with entity id 3 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:05:15] [Server thread/INFO]: •>[+] Người chơi Phuongza Đã vào server
+2018-03-30 [21:05:22] [Server thread/INFO]: [CommandTracker] <Phuongza> /say phuongkio
+2018-03-30 [21:05:23] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] [ClientID: 3375863942457230610] logged in with entity id 9 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:05:27] [Server thread/INFO]: •>[+] Người chơi GirlLove Đã vào server
+2018-03-30 [21:05:28] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:05:32] [Server thread/INFO]: [CommandTracker] <GirlLove> /say huyenttb
+2018-03-30 [21:05:35] [Server thread/INFO]: [CommandTracker] <Phuongza> /dnop MinePro@123456789
+2018-03-30 [21:05:37] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade sbr
+2018-03-30 [21:05:42] [Server thread/INFO]: [CommandTracker] <Phuongza> /warp shop
+2018-03-30 [21:05:44] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade list
+2018-03-30 [21:05:50] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade list 2
+2018-03-30 [21:05:53] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ...
+2018-03-30 [21:05:53] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟...
+2018-03-30 [21:05:56] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb home
+2018-03-30 [21:05:58] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:06:01] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ..../trfade
+2018-03-30 [21:06:01] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →..../trfade ←
+2018-03-30 [21:06:11] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade 
+2018-03-30 [21:06:15] [Server thread/INFO]: [CommandTracker] <GirlLove> /transfer 
+2018-03-30 [21:06:18] [Server thread/INFO]: [CommandTracker] <GirlLove> /say kdc
+2018-03-30 [21:06:18] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟kdc
+2018-03-30 [21:06:19] [Server thread/INFO]: [CommandTracker] <Phuongza> /say .... chơi ngu rồi
+2018-03-30 [21:06:19] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →.... chơi ngu rồi ←
+2018-03-30 [21:06:25] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade 
+2018-03-30 [21:06:28] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:06:32] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade list
+2018-03-30 [21:06:36] [Server thread/INFO]: [CommandTracker] <Phuongza> /say đợi
+2018-03-30 [21:06:36] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →đợi ←
+2018-03-30 [21:06:58] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:07:06] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ...
+2018-03-30 [21:07:06] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟...
+2018-03-30 [21:07:07] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ok
+2018-03-30 [21:07:07] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ok
+2018-03-30 [21:09:17] [Server thread/WARNING]: Online mode has been turned off in server.properties
+2018-03-30 [21:09:17] [Server thread/WARNING]: Xbox Live authentication is disabled.
+2018-03-30 [21:09:17] [Server thread/INFO]: Selected English (eng) as the base language
+2018-03-30 [21:09:17] [Server thread/INFO]: Opening server on 0.0.0.0:1000
+2018-03-30 [21:09:17] [Server thread/INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading recipes...
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading resource packs...
+2018-03-30 [21:09:17] [Server thread/ERROR]: Could not load plugin 'NoFrameDrop': plugin exists
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading AdvancedKits v5.0b1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading AlwaysSpawn v2.2.3-3
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading Broadcaster v1.16
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading SClearLagg v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading CommandTracker v1.1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading EconomyAPI v2.0.9
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading EconomySell v2.0.7
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading EconomyShop v2.0.7
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading EssentialsPE v2.0.0
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading MagicWE v0.2.6
+2018-03-30 [21:09:17] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading ManyWorlds v2.1.0
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading MSpawns v1.5
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading NoFrameDrop v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading Op-Manager v4.4.0
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading PurePerms v1.3.7
+2018-03-30 [21:09:17] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-03-30 [21:09:17] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-03-30 [21:09:17] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-03-30 [21:09:17] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading ServerAuth v2.12
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading Slapper_(NPC) v1.1.VH
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) AuctionHouse v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) AutoInv v0.1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) AutoInv[NMH] v0.1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) Bar v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) BuyEchant v3
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) BuyFly_MCPE14 v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) ChatLogin v1.4
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) CustomAlerts v1.6
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) FactionsPro v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) MOTDShuffle v1.1.0
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) OpLogin v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) Trade v1.1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) VoteSV v1
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) WorldProtect v2.2.0
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading PureChat v1.4.0
+2018-03-30 [21:09:17] [Server thread/INFO]: Loading (Source) SkyBlock v2
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.3-3
+2018-03-30 [21:09:17] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling Broadcaster v1.16
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling SClearLagg v1
+2018-03-30 [21:09:17] [Server thread/INFO]: [SClearLagg] ClearLagg1 от Sergey Dertanз загружен
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling CommandTracker v1.1
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling MagicWE v0.2.6
+2018-03-30 [21:09:17] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling MSpawns v1.5
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling Op-Manager v4.4.0
+2018-03-30 [21:09:17] [Server thread/INFO]: [Op-Manager] has enabled
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling ServerAuth v2.12
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling ChatLogin v1.4
+2018-03-30 [21:09:17] [Server thread/INFO]: ♦Mεɠα SκγBɭσςκ♦ Plugin Enabled!
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling CustomAlerts v1.6
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling MOTDShuffle v1.1.0
+2018-03-30 [21:09:17] [Server thread/INFO]: [MOTDShuffle] has been activated!
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling WorldProtect v2.2.0
+2018-03-30 [21:09:17] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-03-30 [21:09:17] [Server thread/INFO]: Enabling SkyBlock v2
+2018-03-30 [21:09:17] [Server thread/NOTICE]: Level "sb" not found
+2018-03-30 [21:09:17] [Server thread/INFO]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi XxBoomer
+2018-03-30 [21:09:18] [Server thread/INFO]: Preparing level "Skyblock"
+2018-03-30 [21:09:18] [Server thread/INFO]: Preparing level "nether"
+2018-03-30 [21:09:18] [Server thread/INFO]: Preparing level "ender"
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling AdvancedKits v5.0b1
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling EconomyAPI v2.0.9
+2018-03-30 [21:09:18] [Server thread/NOTICE]: [EconomyAPI] 
+2018-03-30 [21:09:18] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling EconomySell v2.0.7
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling EconomyShop v2.0.7
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling EssentialsPE v2.0.0
+2018-03-30 [21:09:18] [Server thread/INFO]: [EssentialsPE] Loading...
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling ManyWorlds v2.1.0
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling NoFrameDrop v1
+2018-03-30 [21:09:18] [Server thread/INFO]: NoFrameDrop MADE BY vk.com/frago9876543210
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling Fireworks_JJBH v1.0 by Jaciel
+2018-03-30 [21:09:18] [Server thread/INFO]: [Fireworks_JJBH] PLUGIN BY jaciel14
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling PurePerms v1.3.7
+2018-03-30 [21:09:18] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling Slapper_(NPC) v1.1.VH
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling AuctionHouse v1
+2018-03-30 [21:09:18] [Server thread/INFO]: [AuctionHouse] Plugins Việt hóa by Phuongaz
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling AutoInv v0.1
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling AutoInv[NMH] v0.1
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling Bar v1
+2018-03-30 [21:09:18] [Server thread/INFO]: [Bar] Đã bật
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling BuyEchant v3
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling BuyFly_MCPE14 v1
+2018-03-30 [21:09:18] [Server thread/INFO]: [BuyFly_MCPE14] BuyFly_MCPE14 Việt hóa!
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling FactionsPro v1
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling OpLogin v1
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling Trade v1.1
+2018-03-30 [21:09:18] [Server thread/INFO]: [Trade] --------------------
+ Trade Remake All Item by Phuongaz => ON
+ --------------------
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling VoteSV v1
+2018-03-30 [21:09:18] [Server thread/INFO]: Enabling PureChat v1.4.0
+2018-03-30 [21:09:18] [Server thread/NOTICE]: [PureChat] FactionsPro-OLD support enabled.
+2018-03-30 [21:09:18] [Server thread/INFO]: Starting GS4 status listener
+2018-03-30 [21:09:18] [Server thread/INFO]: Setting query port to 1000
+2018-03-30 [21:09:18] [Server thread/INFO]: Query running on 0.0.0.0:1000
+2018-03-30 [21:09:18] [Server thread/INFO]: Default game type: Survival Mode
+2018-03-30 [21:09:18] [Server thread/INFO]: Done (1.684s)! For help, type "help" or "?"
+2018-03-30 [21:09:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:09:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:09:18] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [21:09:19] [Server thread/INFO]: [EssentialsPE] No new version found, you're using the latest version of EssentialsPE
+2018-03-30 [21:09:25] [Server thread/INFO]: [CommandTracker] <CONSOLE> /trade list
+2018-03-30 [21:09:25] [Server thread/INFO]:  Sữ Dụng /trade list đễ xem danh sách trade
+2018-03-30 [21:09:25] [Server thread/INFO]: -= Danh Sách Trade=-
+2018-03-30 [21:09:25] [Server thread/INFO]:  Mía[x64] đỏi lấy Bedrock [br]
+2018-03-30 [21:09:25] [Server thread/INFO]:  Bedrock[x3]  đỏi lấy Cúp Dragon [cupdr]
+2018-03-30 [21:09:25] [Server thread/INFO]:  Bedrock[x10] đỏi lấy Kiếm Zeus[kzeus]
+2018-03-30 [21:09:25] [Server thread/INFO]:  Bedrock[x10] đỏi lấy  SET-Bedrock [sbr]
+2018-03-30 [21:09:25] [Server thread/INFO]: /trade [item] đễ đỏi đồ nhé
+2018-03-30 [21:09:37] [Server thread/INFO]: GirlLove[/115.72.108.112:59921] [ClientID: 3375863942457230610] logged in with entity id 3 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:09:41] [Server thread/INFO]: •>[+] Người chơi GirlLove Đã vào server
+2018-03-30 [21:09:43] [Server thread/INFO]: Phuongza[/27.65.21.160:50528] [ClientID: 205551894674893847] logged in with entity id 8 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:09:47] [Server thread/INFO]: •>[+] Người chơi Phuongza Đã vào server
+2018-03-30 [21:09:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:09:54] [Server thread/INFO]: [CommandTracker] <GirlLove> /say huyenttb
+2018-03-30 [21:09:55] [Server thread/INFO]: [CommandTracker] <Phuongza> /say phuongkio
+2018-03-30 [21:09:59] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade 
+2018-03-30 [21:10:03] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade list
+2018-03-30 [21:10:06] [Server thread/INFO]: [CommandTracker] <GirlLove> /say dc nè
+2018-03-30 [21:10:06] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟dc nè
+2018-03-30 [21:10:09] [Server thread/INFO]: [CommandTracker] <Phuongza> /dnop MinePro@123456789
+2018-03-30 [21:10:10] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade sbr
+2018-03-30 [21:10:12] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ukm
+2018-03-30 [21:10:12] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ukm ←
+2018-03-30 [21:10:13] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ode
+2018-03-30 [21:10:13] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ode
+2018-03-30 [21:10:16] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp gi
+2018-03-30 [21:10:16] [Server thread/INFO]: [Phuongza: Teleported Phuongza to GirlLove]
+2018-03-30 [21:10:18] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:49691] [ClientID: -8761601517533342457] logged in with entity id 10 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:10:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:10:21] [Server thread/INFO]: [CommandTracker] <GirlLove> /say oh mg
+2018-03-30 [21:10:21] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟oh mg
+2018-03-30 [21:10:21] [Server thread/INFO]: •>[+] Người chơi Scopion2003VN Đã vào server
+2018-03-30 [21:10:24] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb h 2
+2018-03-30 [21:10:26] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say về 
+2018-03-30 [21:10:30] [Server thread/INFO]: [CommandTracker] <Phuongza> /warp shop
+2018-03-30 [21:10:34] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say AnhDuc2003VN
+2018-03-30 [21:10:34] [Server thread/INFO]: [CommandTracker] <Phuongza> /say .
+2018-03-30 [21:10:34] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →. ←
+2018-03-30 [21:10:35] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say vk
+2018-03-30 [21:10:35] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟vk
+2018-03-30 [21:10:40] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say sb h
+2018-03-30 [21:10:40] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟sb h
+2018-03-30 [21:10:42] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /sb h
+2018-03-30 [21:10:44] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade sbr
+2018-03-30 [21:10:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:11:03] [Server thread/INFO]: [CommandTracker] <Phuongza> /say bật qua lassic đi
+2018-03-30 [21:11:03] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →bật qua lassic đi ←
+2018-03-30 [21:11:08] [Server thread/INFO]: [CommandTracker] <Phuongza> /say cho xem
+2018-03-30 [21:11:08] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →cho xem ←
+2018-03-30 [21:11:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:11:22] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade list
+2018-03-30 [21:11:28] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say edm
+2018-03-30 [21:11:28] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟edm
+2018-03-30 [21:11:36] [Server thread/INFO]: [CommandTracker] <Phuongza> /trade kzeus
+2018-03-30 [21:11:47] [Server thread/INFO]: [CommandTracker] <Phuongza> /say pvp kl
+2018-03-30 [21:11:47] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →pvp kl ←
+2018-03-30 [21:11:48] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ko
+2018-03-30 [21:11:48] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ko ←
+2018-03-30 [21:11:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:11:53] [Server thread/INFO]: [CommandTracker] <Phuongza> /gamemode 03
+2018-03-30 [21:12:05] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade list 2
+2018-03-30 [21:12:16] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade cupdr
+2018-03-30 [21:12:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:12:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:12:22] [Server thread/INFO]: [CommandTracker] <Phuongza> /gms 
+2018-03-30 [21:12:28] [Server thread/INFO]: [CommandTracker] <Phuongza> /say pvp ko
+2018-03-30 [21:12:28] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →pvp ko ←
+2018-03-30 [21:12:33] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp g
+2018-03-30 [21:12:33] [Server thread/INFO]: [Phuongza: Teleported Phuongza to GirlLove]
+2018-03-30 [21:12:37] [Server thread/INFO]: [CommandTracker] <GirlLove> /say đồ này dùng k dc
+2018-03-30 [21:12:37] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟đồ này dùng k dc
+2018-03-30 [21:12:43] [Server thread/INFO]: [CommandTracker] <GirlLove> /say đồ cùi
+2018-03-30 [21:12:43] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟đồ cùi
+2018-03-30 [21:12:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:12:52] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ...
+2018-03-30 [21:12:52] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →... ←
+2018-03-30 [21:12:55] [Server thread/INFO]: Jeff_The_Killer4[/123.22.156.25:53075] [ClientID: 771345327029273862] logged in with entity id 171 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:12:58] [Server thread/INFO]: [CommandTracker] <Phuongza> /say qua test kiếm cái
+2018-03-30 [21:12:58] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →qua test kiếm cái ←
+2018-03-30 [21:13:02] [Server thread/INFO]: •>[+] Người chơi Jeff_The_Killer4 Đã vào server
+2018-03-30 [21:13:07] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade kezous
+2018-03-30 [21:13:09] [Server thread/INFO]: [CommandTracker] <Phuongza> /warps pvp
+2018-03-30 [21:13:10] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say giahuy1223
+2018-03-30 [21:13:10] [Server thread/INFO]: Jeff_The_Killer4 is no longer AFK
+2018-03-30 [21:13:18] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [21:13:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:13:21] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade kzues
+2018-03-30 [21:13:26] [Server thread/INFO]: [CommandTracker] <Phuongza> /mw list
+2018-03-30 [21:13:26] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /chpass giahuy1223
+2018-03-30 [21:13:28] [Server thread/INFO]: [CommandTracker] <GirlLove> /say mất điểm gud tui
+2018-03-30 [21:13:28] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟mất điểm gud tui
+2018-03-30 [21:13:34] [Server thread/INFO]: [CommandTracker] <Phuongza> /mw tp pvp
+2018-03-30 [21:13:34] [Server thread/INFO]: Preparing level "pvp"
+2018-03-30 [21:13:34] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:13:34] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [21:13:40] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade kzeus
+2018-03-30 [21:13:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:13:54] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp Phu
+2018-03-30 [21:13:54] [Server thread/INFO]: •>[✴]GirlLove Từ Skyblock Bay Qua pvp
+2018-03-30 [21:13:54] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [21:14:00] [Server thread/INFO]: [CommandTracker] <Phuongza> /setwarp pvp
+2018-03-30 [21:14:14] [Server thread/INFO]: [CommandTracker] <Phuongza> /say .-.
+2018-03-30 [21:14:14] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →.-. ←
+2018-03-30 [21:14:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:14:36] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /g create $F.A$
+2018-03-30 [21:14:40] [Server thread/INFO]: GirlLove Bị Giết Bởi  Phuongza
+2018-03-30 [21:14:43] [Server thread/INFO]: •>[✴]GirlLove Từ pvp Bay Qua Skyblock
+2018-03-30 [21:14:46] [Server thread/INFO]: [CommandTracker] <Phuongza> /say gmc à
+2018-03-30 [21:14:46] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →gmc à ←
+2018-03-30 [21:14:48] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ê phuong
+2018-03-30 [21:14:48] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ê phuong ⇋
+2018-03-30 [21:14:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:14:49] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp phu
+2018-03-30 [21:14:49] [Server thread/INFO]: •>[✴]GirlLove Từ Skyblock Bay Qua pvp
+2018-03-30 [21:14:49] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [21:14:53] [Server thread/INFO]: [CommandTracker] <GirlLove> /say gm
+2018-03-30 [21:14:53] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟gm
+2018-03-30 [21:14:57] [Server thread/INFO]: [CommandTracker] <Phuongza> /say bedrock đâu ra
+2018-03-30 [21:14:57] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →bedrock đâu ra ←
+2018-03-30 [21:14:58] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa g
+2018-03-30 [21:15:00] [Server thread/INFO]: [CommandTracker] <GirlLove> /say nhìn nè
+2018-03-30 [21:15:00] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟nhìn nè
+2018-03-30 [21:15:15] [Server thread/INFO]: [CommandTracker] <GirlLove> /say mất điể gud guild tui
+2018-03-30 [21:15:15] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟mất điể gud guild tui
+2018-03-30 [21:15:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:15:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:15:23] [Server thread/INFO]: [CommandTracker] <GirlLove> /say tui lượm ở bên nhà cat
+2018-03-30 [21:15:23] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟tui lượm ở bên nhà cat
+2018-03-30 [21:15:26] [Server thread/INFO]: [CommandTracker] <Phuongza> /say police được gmc vcc
+2018-03-30 [21:15:26] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →police được gmc vcc ←
+2018-03-30 [21:15:28] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ê phuong làm sao guild có chữ màu đc
+2018-03-30 [21:15:28] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ê phuong làm sao guild có chữ màu đc ⇋
+2018-03-30 [21:15:34] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa p
+2018-03-30 [21:15:35] [Server thread/INFO]: [CommandTracker] <GirlLove> /say cat có 1 rương bedrpck
+2018-03-30 [21:15:35] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟cat có 1 rương bedrpck
+2018-03-30 [21:15:40] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ....
+2018-03-30 [21:15:40] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →.... ←
+2018-03-30 [21:15:43] [Server thread/INFO]: [CommandTracker] <GirlLove> /say do ghast_noob cho
+2018-03-30 [21:15:43] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟do ghast_noob cho
+2018-03-30 [21:15:45] [Server thread/INFO]: [CommandTracker] <Phuongza> /say   
+2018-03-30 [21:15:45] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →   ←
+2018-03-30 [21:15:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:15:54] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ghast noob còn cho girl đồ
+2018-03-30 [21:15:54] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ghast noob còn cho girl đồ
+2018-03-30 [21:15:59] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /warp pvp
+2018-03-30 [21:16:06] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /warps 
+2018-03-30 [21:16:12] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp phu
+2018-03-30 [21:16:12] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [21:16:13] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /warp pvp
+2018-03-30 [21:16:15] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:16:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:16:20] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa g
+2018-03-30 [21:16:22] [Server thread/INFO]: [CommandTracker] <GirlLove> /say yeah có điểm gud
+2018-03-30 [21:16:22] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟yeah có điểm gud
+2018-03-30 [21:16:26] [Server thread/INFO]: [CommandTracker] <GirlLove> /tpaccept 
+2018-03-30 [21:16:26] [Server thread/INFO]: •>[✴]Jeff_The_Killer4 Từ Skyblock Bay Qua pvp
+2018-03-30 [21:16:28] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:16:33] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:16:46] [Server thread/INFO]: [CommandTracker] <Phuongza> /say jeff cho này
+2018-03-30 [21:16:46] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →jeff cho này ←
+2018-03-30 [21:16:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:16:51] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:16:52] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:16:54] [Server thread/INFO]: dragon1927[/42.112.239.59:17377] [ClientID: -5289303947126266405] logged in with entity id 177 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:16:55] [Server thread/INFO]: Jeff_The_Killer4 Bị Giết Bởi  GirlLove
+2018-03-30 [21:16:57] [Server thread/INFO]: •>[+] Người chơi dragon1927 Đã vào server
+2018-03-30 [21:16:58] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp j
+2018-03-30 [21:16:58] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:16:58] [Server thread/INFO]: [Phuongza: Teleported Phuongza to Jeff_The_Killer4]
+2018-03-30 [21:17:02] [Server thread/INFO]: [CommandTracker] <dragon1927> /say hi
+2018-03-30 [21:17:05] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:17:06] [Server thread/INFO]: •>[✴]Jeff_The_Killer4 Từ pvp Bay Qua Skyblock
+2018-03-30 [21:17:07] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:17:11] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say tèo teo teo teo
+2018-03-30 [21:17:11] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ tèo teo teo teo ⇋
+2018-03-30 [21:17:12] [Server thread/INFO]: [CommandTracker] <dragon1927> /say herobrine
+2018-03-30 [21:17:13] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp j
+2018-03-30 [21:17:13] [Server thread/INFO]: [Phuongza: Teleported Phuongza to Jeff_The_Killer4]
+2018-03-30 [21:17:18] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [21:17:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:17:21] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say v
+2018-03-30 [21:17:21] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟v
+2018-03-30 [21:17:23] [Server thread/INFO]: [CommandTracker] <dragon1927> /say girl ơi
+2018-03-30 [21:17:23] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ girl ơi ⇋
+2018-03-30 [21:17:26] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ?
+2018-03-30 [21:17:26] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟?
+2018-03-30 [21:17:28] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb ho.e
+2018-03-30 [21:17:33] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [21:17:36] [Server thread/INFO]: [CommandTracker] <dragon1927> /say wa pvp kiểu j
+2018-03-30 [21:17:36] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ wa pvp kiểu j ⇋
+2018-03-30 [21:17:38] [Server thread/INFO]: [CommandTracker] <GirlLove> /say nếu có tuyển builder girl sẽ test
+2018-03-30 [21:17:38] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟nếu có tuyển builder girl sẽ test
+2018-03-30 [21:17:44] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:17:44] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp dra g
+2018-03-30 [21:17:44] [Server thread/INFO]: •>[✴]dragon1927 Từ Skyblock Bay Qua pvp
+2018-03-30 [21:17:44] [Server thread/INFO]: [GirlLove: Teleported dragon1927 to GirlLove]
+2018-03-30 [21:17:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:17:50] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:17:51] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:17:55] [Server thread/INFO]: dragon1927 Bị Giết Bởi  GirlLove
+2018-03-30 [21:17:56] [Server thread/INFO]: •>[✴]dragon1927 Từ pvp Bay Qua Skyblock
+2018-03-30 [21:17:58] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say cho tui làm builder nha
+2018-03-30 [21:17:58] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ cho tui làm builder nha ⇋
+2018-03-30 [21:18:02] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ở tội quá
+2018-03-30 [21:18:02] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ở tội quá
+2018-03-30 [21:18:06] [Server thread/INFO]: [CommandTracker] <dragon1927> /say từ
+2018-03-30 [21:18:06] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ từ ⇋
+2018-03-30 [21:18:07] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp dra g
+2018-03-30 [21:18:07] [Server thread/INFO]: •>[✴]dragon1927 Từ Skyblock Bay Qua pvp
+2018-03-30 [21:18:07] [Server thread/INFO]: [GirlLove: Teleported dragon1927 to GirlLove]
+2018-03-30 [21:18:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:18:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:18:19] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 1
+2018-03-30 [21:18:23] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:18:29] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 2
+2018-03-30 [21:18:36] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 3
+2018-03-30 [21:18:37] [Server thread/INFO]: Phuongza cháy
+2018-03-30 [21:18:38] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:18:41] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:18:45] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 4
+2018-03-30 [21:18:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:18:53] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /buyec 9 5
+2018-03-30 [21:19:03] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:19:04] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:19:05] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb h
+2018-03-30 [21:19:05] [Server thread/INFO]: •>[✴]dragon1927 Từ pvp Bay Qua Skyblock
+2018-03-30 [21:19:08] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:19:12] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /buyec 9 3
+2018-03-30 [21:19:14] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:19:15] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:19:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:19:20] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:19:20] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 5
+2018-03-30 [21:19:20] [Server thread/INFO]: [CommandTracker] <GirlLove> /sethome pvp
+2018-03-30 [21:19:23] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:19:25] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:19:29] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /buyec 12 5
+2018-03-30 [21:19:35] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa g
+2018-03-30 [21:19:41] [Server thread/INFO]: [CommandTracker] <GirlLove> /tpaccept 
+2018-03-30 [21:19:41] [Server thread/INFO]: •>[✴]Jeff_The_Killer4 Từ Skyblock Bay Qua pvp
+2018-03-30 [21:19:42] [Server thread/INFO]: [CommandTracker] <Phuongza> /warp pvp
+2018-03-30 [21:19:42] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:19:47] [Server thread/INFO]: [CommandTracker] <GirlLove> /g info
+2018-03-30 [21:19:48] [Server thread/INFO]: Jeff_The_Killer4 Bị Giết Bởi  Phuongza
+2018-03-30 [21:19:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:19:49] [Server thread/INFO]: •>[✴]Jeff_The_Killer4 Từ pvp Bay Qua Skyblock
+2018-03-30 [21:19:51] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:19:53] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:19:54] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say what
+2018-03-30 [21:19:54] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ what ⇋
+2018-03-30 [21:19:59] [Server thread/INFO]: •>[✴]Phuongza Từ Skyblock Bay Qua pvp
+2018-03-30 [21:20:01] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /warp pvp
+2018-03-30 [21:20:07] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa p
+2018-03-30 [21:20:09] [Server thread/INFO]: Phuongza Bị Giết Bởi  GirlLove
+2018-03-30 [21:20:11] [Server thread/INFO]: •>[✴]Phuongza Từ pvp Bay Qua Skyblock
+2018-03-30 [21:20:11] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [21:20:15] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ..
+2018-03-30 [21:20:15] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →.. ←
+2018-03-30 [21:20:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:20:23] [Server thread/INFO]: [CommandTracker] <Phuongza> /say Tịch thu BeDrock
+2018-03-30 [21:20:23] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →Tịch thu BeDrock ←
+2018-03-30 [21:20:24] [Server thread/INFO]: [CommandTracker] <dragon1927> /mp tp pvp
+2018-03-30 [21:20:24] [Server thread/INFO]: [CommandTracker] <GirlLove> /say Phuog là chủ sv à -.#
+2018-03-30 [21:20:24] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟Phuog là chủ sv à -.#
+2018-03-30 [21:20:28] [Server thread/INFO]: [CommandTracker] <Phuongza> /say OP
+2018-03-30 [21:20:28] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →OP ←
+2018-03-30 [21:20:31] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /listec 6
+2018-03-30 [21:20:32] [Server thread/INFO]: [CommandTracker] <GirlLove> /say còn bedrock âu 
+2018-03-30 [21:20:32] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟còn bedrock âu
+2018-03-30 [21:20:39] [Server thread/INFO]: [CommandTracker] <Phuongza> /say đảo cat id
+2018-03-30 [21:20:39] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →đảo cat id ←
+2018-03-30 [21:20:46] [Server thread/INFO]: Phuongza rơi xuống void
+2018-03-30 [21:20:46] [Server thread/INFO]: [CommandTracker] <GirlLove> /trade sbr
+2018-03-30 [21:20:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:20:49] [Server thread/INFO]: [CommandTracker] <dragon1927> /say girl tp m wa
+2018-03-30 [21:20:49] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ girl tp m wa ⇋
+2018-03-30 [21:20:54] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa g
+2018-03-30 [21:20:55] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb h 2
+2018-03-30 [21:20:55] [Server thread/INFO]: •>[✴]GirlLove Từ pvp Bay Qua Skyblock
+2018-03-30 [21:20:57] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp d
+2018-03-30 [21:20:57] [Server thread/INFO]: [Phuongza: Teleported Phuongza to dragon1927]
+2018-03-30 [21:21:00] [Server thread/INFO]: [CommandTracker] <GirlLove> /tpaccept 
+2018-03-30 [21:21:16] [Server thread/INFO]: [CommandTracker] <dragon1927> /say đảo cat ak
+2018-03-30 [21:21:16] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ đảo cat ak ⇋
+2018-03-30 [21:21:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:21:18] [Server thread/INFO]: • Đã dọn 0 rác •
+2018-03-30 [21:21:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:21:22] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ukm
+2018-03-30 [21:21:22] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ukm ←
+2018-03-30 [21:21:27] [Server thread/INFO]: [CommandTracker] <dragon1927> /say 10;-5
+2018-03-30 [21:21:27] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ 10;-5 ⇋
+2018-03-30 [21:21:31] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say please sập đi mà
+2018-03-30 [21:21:31] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ please sập đi mà ⇋
+2018-03-30 [21:21:45] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb warp 10;-5
+2018-03-30 [21:21:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:21:51] [Server thread/INFO]: [CommandTracker] <Phuongza> /say sập ?
+2018-03-30 [21:21:51] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →sập ? ←
+2018-03-30 [21:21:59] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say tháp sập
+2018-03-30 [21:21:59] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ tháp sập ⇋
+2018-03-30 [21:22:02] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb warp 10;-5
+2018-03-30 [21:22:09] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpahere p
+2018-03-30 [21:22:18] [Server thread/INFO]: [CommandTracker] <Phuongza> /tpaccept 
+2018-03-30 [21:22:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:22:47] [Server thread/INFO]: [CommandTracker] <Phuongza> /say build củg tốt
+2018-03-30 [21:22:47] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →build củg tốt ←
+2018-03-30 [21:22:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:22:51] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ê gái
+2018-03-30 [21:22:51] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ê gái ⇋
+2018-03-30 [21:23:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:23:21] [Server thread/INFO]: [CommandTracker] <GirlLove> /say sao thoát khỏi cái áo này
+2018-03-30 [21:23:21] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟sao thoát khỏi cái áo này
+2018-03-30 [21:23:27] [Server thread/INFO]: [CommandTracker] <GirlLove> /say j jeff
+2018-03-30 [21:23:27] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟j jeff
+2018-03-30 [21:23:32] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say hk có j
+2018-03-30 [21:23:32] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ hk có j ⇋
+2018-03-30 [21:23:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:23:56] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb warp 10;-5
+2018-03-30 [21:24:01] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb h
+2018-03-30 [21:24:02] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb info
+2018-03-30 [21:24:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:24:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:24:29] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ey phuong
+2018-03-30 [21:24:29] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ey phuong
+2018-03-30 [21:24:33] [Server thread/INFO]: [CommandTracker] <GirlLove> /say clear đồ girl đi
+2018-03-30 [21:24:33] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟clear đồ girl đi
+2018-03-30 [21:24:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:24:56] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say làm sao để kiếm tiền nha
+2018-03-30 [21:24:56] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ làm sao để kiếm tiền nha ⇋
+2018-03-30 [21:25:07] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say nhanh
+2018-03-30 [21:25:07] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ nhanh ⇋
+2018-03-30 [21:25:09] [Server thread/INFO]: [CommandTracker] <GirlLove> /say cày
+2018-03-30 [21:25:09] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟cày
+2018-03-30 [21:25:16] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb warp -9;-6
+2018-03-30 [21:25:18] [Server thread/INFO]: • Đã dọn 13 rác •
+2018-03-30 [21:25:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:25:25] [Server thread/INFO]: •>[z-]  Nguời choi Scopion2003VN Đã thoát server
+2018-03-30 [21:25:25] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:49691] logged out due to timeout
+2018-03-30 [21:25:26] [Server thread/INFO]: [CommandTracker] <GirlLove> /fly 
+2018-03-30 [21:25:27] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say bằng cách nào
+2018-03-30 [21:25:27] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ bằng cách nào ⇋
+2018-03-30 [21:25:32] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp phu
+2018-03-30 [21:25:32] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [21:25:40] [Server thread/INFO]: [CommandTracker] <GirlLove> /say thấy chưa .-.
+2018-03-30 [21:25:40] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟thấy chưa .-.
+2018-03-30 [21:25:48] [Server thread/INFO]: [CommandTracker] <GirlLove> /say đập đá
+2018-03-30 [21:25:48] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟đập đá
+2018-03-30 [21:25:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:25:53] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say ù
+2018-03-30 [21:25:53] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ ù ⇋
+2018-03-30 [21:25:58] [Server thread/INFO]: [CommandTracker] <dragon1927> /say bảo ad fif lại bán điamond đi girl
+2018-03-30 [21:25:58] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ bảo ad fif lại bán điamond đi girl ⇋
+2018-03-30 [21:26:00] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say chơi lớn lun
+2018-03-30 [21:26:00] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ chơi lớn lun ⇋
+2018-03-30 [21:26:04] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ghê chưa chú
+2018-03-30 [21:26:04] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ghê chưa chú
+2018-03-30 [21:26:09] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ko lụm
+2018-03-30 [21:26:09] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ko lụm ←
+2018-03-30 [21:26:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:26:25] [Server thread/INFO]: [CommandTracker] <Phuongza> /say vứt ra hết đi.
+2018-03-30 [21:26:25] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →vứt ra hết đi. ←
+2018-03-30 [21:26:29] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa g
+2018-03-30 [21:26:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:26:57] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ko đc lụm
+2018-03-30 [21:26:57] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ko đc lụm ←
+2018-03-30 [21:26:57] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb warp 11;-1
+2018-03-30 [21:27:02] [Server thread/INFO]: [CommandTracker] <Phuongza> /sb info
+2018-03-30 [21:27:12] [Server thread/INFO]: [CommandTracker] <dragon1927> /say jeff
+2018-03-30 [21:27:12] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ jeff ⇋
+2018-03-30 [21:27:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:27:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:27:19] [Server thread/INFO]: [CommandTracker] <GirlLove> /say đi vức nè
+2018-03-30 [21:27:19] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟đi vức nè
+2018-03-30 [21:27:24] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp dra
+2018-03-30 [21:27:24] [Server thread/INFO]: [GirlLove: Teleported GirlLove to dragon1927]
+2018-03-30 [21:27:32] [Server thread/INFO]: [CommandTracker] <GirlLove> /say nhìn nè dra
+2018-03-30 [21:27:32] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟nhìn nè dra
+2018-03-30 [21:27:33] [Server thread/INFO]: [CommandTracker] <Phuongza> /gma 
+2018-03-30 [21:27:37] [Server thread/INFO]: [CommandTracker] <dragon1927> /say ơi
+2018-03-30 [21:27:37] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ ơi ⇋
+2018-03-30 [21:27:42] [Server thread/INFO]: [CommandTracker] <GirlLove> /say :)) màn trình diễn của cj girl giàu có
+2018-03-30 [21:27:42] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟:)) màn trình diễn của cj girl giàu có
+2018-03-30 [21:27:44] [Server thread/INFO]: [CommandTracker] <Phuongza> /gmt 
+2018-03-30 [21:27:47] [Server thread/INFO]: [CommandTracker] <GirlLove> /say quăng bedrock
+2018-03-30 [21:27:47] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟quăng bedrock
+2018-03-30 [21:27:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:27:58] [Server thread/INFO]: [CommandTracker] <dragon1927> /say vv
+2018-03-30 [21:27:58] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ vv ⇋
+2018-03-30 [21:28:02] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa g
+2018-03-30 [21:28:11] [Server thread/INFO]: [CommandTracker] <GirlLove> /tpaccept 
+2018-03-30 [21:28:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:28:21] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:60216] logged out due to timeout
+2018-03-30 [21:28:25] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say đảo ai đây
+2018-03-30 [21:28:25] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ đảo ai đây ⇋
+2018-03-30 [21:28:25] [Server thread/INFO]: [CommandTracker] <Phuongza> /say cat có hỏi mất đồ bảo T lấy nhé
+2018-03-30 [21:28:25] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →cat có hỏi mất đồ bảo T lấy nhé ←
+2018-03-30 [21:28:26] [Server thread/INFO]: [CommandTracker] <GirlLove> /say hết
+2018-03-30 [21:28:26] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟hết
+2018-03-30 [21:28:29] [Server thread/INFO]: [CommandTracker] <dragon1927> /say jeff add với
+2018-03-30 [21:28:29] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ jeff add với ⇋
+2018-03-30 [21:28:30] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ok
+2018-03-30 [21:28:30] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ok
+2018-03-30 [21:28:30] [Server thread/INFO]: [CommandTracker] <Phuongza> /tp g
+2018-03-30 [21:28:30] [Server thread/INFO]: [Phuongza: Teleported Phuongza to GirlLove]
+2018-03-30 [21:28:31] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say tối quá
+2018-03-30 [21:28:31] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ tối quá ⇋
+2018-03-30 [21:28:41] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ghast cho girl lồng spawn
+2018-03-30 [21:28:41] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ghast cho girl lồng spawn
+2018-03-30 [21:28:42] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say đảo ai á
+2018-03-30 [21:28:42] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ đảo ai á ⇋
+2018-03-30 [21:28:48] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:28:54] [Server thread/INFO]: [CommandTracker] <GirlLove> /say nên đảo chú cat lag í
+2018-03-30 [21:28:54] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟nên đảo chú cat lag í
+2018-03-30 [21:28:58] [Server thread/INFO]: [CommandTracker] <GirlLove> /time set day
+2018-03-30 [21:28:58] [Server thread/INFO]: [GirlLove: Set the time to 0]
+2018-03-30 [21:29:05] [Server thread/INFO]: [CommandTracker] <dragon1927> /say jeff add đi
+2018-03-30 [21:29:05] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ jeff add đi ⇋
+2018-03-30 [21:29:12] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:60216] [ClientID: -4263792814413066406] logged in with entity id 522 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:29:16] [Server thread/INFO]: [CommandTracker] <GirlLove> /sb h 2
+2018-03-30 [21:29:18] [Server thread/INFO]: •>[+] Người chơi Scopion2003VN Đã vào server
+2018-03-30 [21:29:18] [Server thread/INFO]: Scopion2003VN is now AFK
+2018-03-30 [21:29:18] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:29:18] [Server thread/INFO]: • Đã dọn 1 rác •
+2018-03-30 [21:29:29] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb addhelper dragon1957
+2018-03-30 [21:29:32] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say rồi
+2018-03-30 [21:29:32] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ rồi ⇋
+2018-03-30 [21:29:35] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /sb h
+2018-03-30 [21:29:36] [Server thread/INFO]: Scopion2003VN is no longer AFK
+2018-03-30 [21:29:40] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ey chú phuong
+2018-03-30 [21:29:40] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ey chú phuong
+2018-03-30 [21:29:48] [Server thread/INFO]: [CommandTracker] <GirlLove> /say clear đồ girl đi
+2018-03-30 [21:29:48] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟clear đồ girl đi
+2018-03-30 [21:29:48] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:29:52] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp Phu
+2018-03-30 [21:29:52] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [21:29:54] [Server thread/INFO]: [CommandTracker] <dragon1927> /say đâu dc
+2018-03-30 [21:29:54] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ đâu dc ⇋
+2018-03-30 [21:29:57] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb addhelper dragon1927
+2018-03-30 [21:30:01] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say gòi
+2018-03-30 [21:30:01] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ gòi ⇋
+2018-03-30 [21:30:02] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /say phuong
+2018-03-30 [21:30:02] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨Scopion2003VN➟phuong
+2018-03-30 [21:30:10] [Server thread/INFO]: [CommandTracker] <Phuongza> /clearinvent Girl
+2018-03-30 [21:30:16] [Server thread/INFO]: [CommandTracker] <Phuongza> /say j
+2018-03-30 [21:30:16] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →j ←
+2018-03-30 [21:30:18] [Server thread/INFO]: [CommandTracker] <GirlLove> /say WHAT ARE YOU DOING
+2018-03-30 [21:30:18] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟WHAT ARE YOU DOING
+2018-03-30 [21:30:18] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:30:18] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:30:21] [Server thread/INFO]: [CommandTracker] <Phuongza> /gmc 
+2018-03-30 [21:30:22] [Server thread/INFO]: [CommandTracker] <GirlLove> /say cảm ơn chú
+2018-03-30 [21:30:22] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟cảm ơn chú
+2018-03-30 [21:30:26] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say oải rồi
+2018-03-30 [21:30:26] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ oải rồi ⇋
+2018-03-30 [21:30:28] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /fly 
+2018-03-30 [21:30:36] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /fly 
+2018-03-30 [21:30:42] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ukm
+2018-03-30 [21:30:42] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ukm ←
+2018-03-30 [21:30:44] [Server thread/INFO]: [CommandTracker] <Scopion2003VN> /tp j
+2018-03-30 [21:30:44] [Server thread/INFO]: [Scopion2003VN: Teleported Scopion2003VN to Jeff_The_Killer4]
+2018-03-30 [21:30:49] [Server thread/INFO]: [CommandTracker] <GirlLove> /tp phu
+2018-03-30 [21:30:49] [Server thread/INFO]: [GirlLove: Teleported GirlLove to Phuongza]
+2018-03-30 [21:30:51] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:30:59] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ey phuong
+2018-03-30 [21:30:59] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟ey phuong
+2018-03-30 [21:30:59] [Server thread/INFO]: [CommandTracker] <Phuongza> /say chụp hình ko
+2018-03-30 [21:30:59] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →chụp hình ko ←
+2018-03-30 [21:31:04] [Server thread/INFO]: [CommandTracker] <GirlLove> /say lỗi của sbr í
+2018-03-30 [21:31:04] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟lỗi của sbr í
+2018-03-30 [21:31:07] [Server thread/INFO]: [CommandTracker] <GirlLove> /say chụp
+2018-03-30 [21:31:07] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟chụp
+2018-03-30 [21:31:21] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say  ho tui chụp chung ik
+2018-03-30 [21:31:21] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌  ho tui chụp chung ik ⇋
+2018-03-30 [21:31:21] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:31:30] [Server thread/INFO]: [CommandTracker] <GirlLove> /say tui mang giáp của bedrock k dc
+2018-03-30 [21:31:30] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟tui mang giáp của bedrock k dc
+2018-03-30 [21:31:49] [Server thread/INFO]: [CommandTracker] <Phuongza> /say vô hàng
+2018-03-30 [21:31:49] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →vô hàng ←
+2018-03-30 [21:31:51] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:31:53] [Server thread/INFO]: •>[z-]  Nguời choi Scopion2003VN Đã thoát server
+2018-03-30 [21:31:53] [Server thread/INFO]: Scopion2003VN[/58.187.188.89:60216] logged out due to timeout
+2018-03-30 [21:31:59] [Server thread/INFO]: [CommandTracker] <Phuongza> /say 2 tkkia
+2018-03-30 [21:31:59] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →2 tkkia ←
+2018-03-30 [21:32:02] [Server thread/INFO]: [CommandTracker] <Phuongza> /say chụp ko
+2018-03-30 [21:32:02] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →chụp ko ←
+2018-03-30 [21:32:09] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say đợi lấy skin chính đã
+2018-03-30 [21:32:09] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ đợi lấy skin chính đã ⇋
+2018-03-30 [21:32:21] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:32:24] [Server thread/INFO]: •>[z-]  Nguời choi Jeff_The_Killer4 Đã thoát server
+2018-03-30 [21:32:24] [Server thread/INFO]: Jeff_The_Killer4[/123.22.156.25:53075] logged out due to client disconnect
+2018-03-30 [21:32:25] [Server thread/INFO]: [CommandTracker] <Phuongza> /say girl
+2018-03-30 [21:32:25] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →girl ←
+2018-03-30 [21:32:32] [Server thread/INFO]: [CommandTracker] <GirlLove> /say ?
+2018-03-30 [21:32:32] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟?
+2018-03-30 [21:32:36] [Server thread/INFO]: [CommandTracker] <Phuongza> /say chụp r
+2018-03-30 [21:32:36] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →chụp r ←
+2018-03-30 [21:32:40] [Server thread/INFO]: [CommandTracker] <Phuongza> /say có face ko
+2018-03-30 [21:32:40] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →có face ko ←
+2018-03-30 [21:32:43] [Server thread/INFO]: [CommandTracker] <GirlLove> /say có
+2018-03-30 [21:32:43] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟có
+2018-03-30 [21:32:47] [Server thread/INFO]: [CommandTracker] <Phuongza> /say tên ?
+2018-03-30 [21:32:47] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →tên ? ←
+2018-03-30 [21:32:48] [Server thread/INFO]: [CommandTracker] <GirlLove> /say Giờ này k onl
+2018-03-30 [21:32:48] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟Giờ này k onl
+2018-03-30 [21:32:51] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:32:53] [Server thread/INFO]: [CommandTracker] <dragon1927> /say m kiếm xu
+2018-03-30 [21:32:53] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ m kiếm xu ⇋
+2018-03-30 [21:33:10] [Server thread/INFO]: [CommandTracker] <dragon1927> /say muốn
+2018-03-30 [21:33:10] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ muốn ⇋
+2018-03-30 [21:33:12] [Server thread/INFO]: [CommandTracker] <GirlLove> /say Nick Chính Bị khóa nick Phụ HamerJack
+2018-03-30 [21:33:12] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟Nick Chính Bị khóa nick Phụ HamerJack
+2018-03-30 [21:33:16] [Server thread/INFO]: [CommandTracker] <GirlLove> /say Hamer Jack í 
+2018-03-30 [21:33:16] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟Hamer Jack í
+2018-03-30 [21:33:21] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:33:21] [Server thread/INFO]: • Đã dọn 1 rác •
+2018-03-30 [21:33:21] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:33:26] [Server thread/INFO]: [CommandTracker] <Phuongza> /say ukm
+2018-03-30 [21:33:26] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →ukm ←
+2018-03-30 [21:33:51] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:34:14] [Server thread/INFO]: Jeff_The_Killer4[/123.22.156.25:53075] [ClientID: 771345327029273862] logged in with entity id 665 at (Skyblock, 1774, 69, 1212)
+2018-03-30 [21:34:17] [Server thread/INFO]: [CommandTracker] <GirlLove> /say :)
+2018-03-30 [21:34:17] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟:)
+2018-03-30 [21:34:21] [Server thread/INFO]: Jeff_The_Killer4 is now AFK
+2018-03-30 [21:34:21] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:34:23] [Server thread/INFO]: •>[+] Người chơi Jeff_The_Killer4 Đã vào server
+2018-03-30 [21:34:30] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say hello
+2018-03-30 [21:34:30] [Server thread/INFO]: Jeff_The_Killer4 is no longer AFK
+2018-03-30 [21:34:30] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ hello ⇋
+2018-03-30 [21:34:34] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say is me
+2018-03-30 [21:34:34] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ is me ⇋
+2018-03-30 [21:34:37] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpa p
+2018-03-30 [21:34:39] [Server thread/INFO]: [CommandTracker] <dragon1927> /say girl sát sinh
+2018-03-30 [21:34:39] [Server thread/INFO]: [Team¥Ghast] »…Ƹ→ᙢember←Ʒ…« ♦ dragon1927♦ ⇌ girl sát sinh ⇋
+2018-03-30 [21:34:41] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [21:34:51] [Server thread/INFO]: [CommandTracker] <Phuongza> /say skin tởm vc
+2018-03-30 [21:34:51] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →skin tởm vc ←
+2018-03-30 [21:34:51] [Server thread/INFO]: •MinePro• Chào Mừng Bạn Đến Với MinePro
+2018-03-30 [21:34:59] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say thật
+2018-03-30 [21:34:59] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ thật ⇋
+2018-03-30 [21:35:04] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say hết skin gòi
+2018-03-30 [21:35:04] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ hết skin gòi ⇋
+2018-03-30 [21:35:21] [Server thread/INFO]: •MinePro• Server đang trong quá trình phát triển
+2018-03-30 [21:35:31] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /buyfly 
+2018-03-30 [21:35:39] [Server thread/INFO]: [CommandTracker] <GirlLove> /say cục tát
+2018-03-30 [21:35:39] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟cục tát
+2018-03-30 [21:35:45] [Server thread/INFO]: [CommandTracker] <GirlLove> /say gà ơi
+2018-03-30 [21:35:45] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟gà ơi
+2018-03-30 [21:35:47] [Server thread/INFO]: [CommandTracker] <Phuongza> /say =))
+2018-03-30 [21:35:47] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →=)) ←
+2018-03-30 [21:35:49] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpahere d
+2018-03-30 [21:35:51] [Server thread/INFO]: [CommandTracker] <GirlLove> /say nhân ngày kỉ niệm
+2018-03-30 [21:35:51] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟nhân ngày kỉ niệm
+2018-03-30 [21:35:51] [Server thread/INFO]: •MinePro• /sb help đễ dem cách chơi SkyBlock
+2018-03-30 [21:35:52] [Server thread/INFO]: Jeff_The_Killer4 rơi xuống void
+2018-03-30 [21:35:58] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /sb home
+2018-03-30 [21:36:03] [Server thread/INFO]: [CommandTracker] <GirlLove> /say t gặp m
+2018-03-30 [21:36:03] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟t gặp m
+2018-03-30 [21:36:03] [Server thread/INFO]: [CommandTracker] <GirlLove> /say t sẽ tặng m thịt gà
+2018-03-30 [21:36:03] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟t sẽ tặng m thịt gà
+2018-03-30 [21:36:10] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /tpahere d
+2018-03-30 [21:36:11] [Server thread/INFO]: [CommandTracker] <dragon1927> /tpaccept 
+2018-03-30 [21:36:14] [Server thread/INFO]: dragon1927 rơi xuống void
+2018-03-30 [21:36:21] [Server thread/INFO]: Dọn rác sau 3 phút nữa
+2018-03-30 [21:36:21] [Server thread/INFO]: •MinePro• /daugia đễ xem các mặt hàng đa dạng
+2018-03-30 [21:36:22] [Server thread/INFO]: [CommandTracker] <Jeff_The_Killer4> /say bất ngờ chưa
+2018-03-30 [21:36:22] [Server thread/INFO]: [] »…Ƹ→ᙢember←Ʒ…« ♦ Jeff_The_Killer4♦ ⇌ bất ngờ chưa ⇋
+2018-03-30 [21:36:31] [Server thread/INFO]: [CommandTracker] <dragon1927> /sb warp 11;-1
+2018-03-30 [21:36:36] [Server thread/INFO]: •>[z-]  Nguời choi Jeff_The_Killer4 Đã thoát server
+2018-03-30 [21:36:36] [Server thread/INFO]: Jeff_The_Killer4[/123.22.156.25:53075] logged out due to client disconnect
+2018-03-30 [21:36:43] [Server thread/INFO]: [CommandTracker] <GirlLove> /say Phuong
+2018-03-30 [21:36:43] [Server thread/INFO]: [÷Vip÷] ✇...❂Ρølice❂...✇⇨GirlLove➟Phuong
+2018-03-30 [21:36:48] [Server thread/INFO]: [CommandTracker] <Phuongza> /say j
+2018-03-30 [21:36:48] [Server thread/INFO]: [〽Forex〽] ..•♦>VIP-VI<♦•.. Phuongza →j ←

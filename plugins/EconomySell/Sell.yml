@@ -1,0 +1,202 @@
+---
+112:9:112:9:
+  x: 112
+  "y": 9
+  z: 112
+  level: "9"
+  cost: 500
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+112:9:114:9:
+  x: 112
+  "y": 9
+  z: 114
+  level: "9"
+  cost: 200
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+112:9:116:9:
+  x: 112
+  "y": 9
+  z: 116
+  level: "9"
+  cost: 700
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+112:9:118:9:
+  x: 112
+  "y": 9
+  z: 118
+  level: "9"
+  cost: 150
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+118:9:106:9:
+  x: 118
+  "y": 9
+  z: 106
+  level: "9"
+  cost: 350
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+90:70:60:Skyblock:
+  x: 90
+  "y": 70
+  z: 60
+  level: Skyblock
+  cost: 800
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 64
+90:70:61:Skyblock:
+  x: 90
+  "y": 70
+  z: 61
+  level: Skyblock
+  cost: 600
+  item: 264
+  itemName: Diamond
+  meta: 0
+  amount: 10
+90:70:62:Skyblock:
+  x: 90
+  "y": 70
+  z: 62
+  level: Skyblock
+  cost: 300
+  item: 266
+  itemName: Gold Ingot
+  meta: 0
+  amount: 10
+90:70:63:Skyblock:
+  x: 90
+  "y": 70
+  z: 63
+  level: Skyblock
+  cost: 500
+  item: 265
+  itemName: Iron Ingot
+  meta: 0
+  amount: 10
+86:70:60:Skyblock:
+  x: 86
+  "y": 70
+  z: 60
+  level: Skyblock
+  cost: 700
+  item: 388
+  itemName: Emerald
+  meta: 0
+  amount: 10
+86:70:61:Skyblock:
+  x: 86
+  "y": 70
+  z: 61
+  level: Skyblock
+  cost: 1000
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 32
+-1614:72:-1012:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1012
+  level: Skyblock
+  cost: 200
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+-1614:72:-1014:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1014
+  level: Skyblock
+  cost: 200
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 64
+-1614:72:-1015:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1015
+  level: Skyblock
+  cost: 900
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 64
+-1614:72:-1016:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1016
+  level: Skyblock
+  cost: 200
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+-1614:72:-1018:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1018
+  level: Skyblock
+  cost: 300
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 20
+-1614:72:-1021:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1021
+  level: Skyblock
+  cost: 150
+  item: 5
+  itemName: Dark Oak Wood Planks
+  meta: 5
+  amount: 50
+-1614:72:-1022:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1022
+  level: Skyblock
+  cost: 150
+  item: 5
+  itemName: Jungle Wood Planks
+  meta: 3
+  amount: 50
+-1614:72:-1017:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1017
+  level: Skyblock
+  cost: 200
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 30
+-1614:72:-1013:Skyblock:
+  x: -1614
+  "y": 72
+  z: -1013
+  level: Skyblock
+  cost: 200
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 30
+...

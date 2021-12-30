@@ -1,0 +1,18 @@
+name: BuyFly_MCPE14
+main: BuyFly_MCPE14\BuyFly_MCPE14
+version: 1.0
+api:
+- 2.0.0
+- 3.0.0
+- 3.0.0-ALPHA6
+author: Roremi
+
+commands:
+ buyfly:
+  description: Mua fly để bay :)
+  permission: buyfly
+
+permissions:
+  buyfly:
+   default: true
+   description: Mua fly 

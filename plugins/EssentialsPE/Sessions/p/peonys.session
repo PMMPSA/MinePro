@@ -1,0 +1,22 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "sb": [
+            662.78,
+            76.4133,
+            98.3,
+            "Skyblock",
+            174,
+            49
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "Phuongaz",
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

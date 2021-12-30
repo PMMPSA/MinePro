@@ -1,0 +1,7 @@
+name: OpLogin
+main: oplogin\Main
+version: 1.0
+api: 3.0.0
+commands:
+    dnop:
+      description: OP ONLY!! Use to Login for OP

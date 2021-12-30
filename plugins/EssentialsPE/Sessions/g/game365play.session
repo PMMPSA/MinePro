@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": true,
+    "homes": {
+        "bill": [
+            -471,
+            69,
+            -99,
+            "Skyblock",
+            184,
+            53
+        ],
+        "roremi": [
+            275.3057,
+            69,
+            460.673,
+            "Skyblock",
+            335,
+            18
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "98": [
+            1780.0221,
+            69,
+            -1219.6053,
+            "Skyblock",
+            43,
+            21
+        ],
+        "shop": [
+            -1595.2573,
+            69,
+            -1030.0349,
+            "Skyblock",
+            48,
+            6
+        ],
+        "cat": [
+            839.1398,
+            69,
+            -651.7908,
+            "Skyblock",
+            243,
+            0
+        ],
+        "un": [
+            1963.9136,
+            69,
+            1771.9949,
+            "Skyblock",
+            53,
+            47
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

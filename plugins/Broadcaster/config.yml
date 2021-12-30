@@ -1,0 +1,20 @@
+---
+prefix: "§l§aMinePro"
+suffix: "[A]"
+time: 30
+sendmessage-format: "&c•{PREFIX}§c• {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+datetime-format: "H:i:s"
+broadcast-enabled: true
+messages:
+ - "&c•{PREFIX}§c•§a Server đang trong quá trình phát triển "
+ - "&c•{PREFIX}§c•§6 /sb help§a đễ dem cách chơi SkyBlock"
+ - "&c•{PREFIX}§c•§6 /daugia§a đễ xem các mặt hàng đa dạng"
+ - "&c•{PREFIX}§c•§b Chào Mừng Bạn Đến Với §aMinePro"
+ 
+popup-time: 15
+popup-duration: 5
+sendpopup-format: "&a{SENDER}&e>>&f {MESSAGE}"
+popup-broadcast-enabled: true
+popups:
+ - "§l§bWelcome To §aMinePro"
+...

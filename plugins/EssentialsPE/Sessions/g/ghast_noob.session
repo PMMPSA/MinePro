@@ -1,0 +1,24 @@
+{
+    "isAFK": true,
+    "isGod": false,
+    "homes": {
+        "bed": [
+            1966.3116,
+            71.6088,
+            -1592.5205,
+            "Skyblock",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "Ghast_Noob§a",
+    "ptCommands": {
+        "276": "say IM THÌ IM =)"
+    },
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

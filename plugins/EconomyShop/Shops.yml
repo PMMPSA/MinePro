@@ -1,0 +1,462 @@
+---
+112:11:118:Lobby:
+  x: 112
+  "y": 11
+  z: 118
+  level: Lobby
+  price: 100
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+118:11:106:Lobby:
+  x: 118
+  "y": 11
+  z: 106
+  level: Lobby
+  price: 300
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+124:9:106:9:
+  x: 124
+  "y": 9
+  z: 106
+  level: "9"
+  price: 450
+  item: 10
+  itemName: Lava
+  meta: 0
+  amount: 2
+90:72:60:Skyblock:
+  x: 90
+  "y": 72
+  z: 60
+  level: Skyblock
+  price: 1000
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+89:72:59:Skyblock:
+  x: 89
+  "y": 72
+  z: 59
+  level: Skyblock
+  price: 100
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 5
+90:72:61:Skyblock:
+  x: 90
+  "y": 72
+  z: 61
+  level: Skyblock
+  price: 800
+  item: 56
+  itemName: Diamond Ore
+  meta: 0
+  amount: 10
+90:72:62:Skyblock:
+  x: 90
+  "y": 72
+  z: 62
+  level: Skyblock
+  price: 500
+  item: 14
+  itemName: Gold Ore
+  meta: 0
+  amount: 10
+90:72:63:Skyblock:
+  x: 90
+  "y": 72
+  z: 63
+  level: Skyblock
+  price: 700
+  item: 15
+  itemName: Iron Ore
+  meta: 0
+  amount: 10
+86:72:60:Skyblock:
+  x: 86
+  "y": 72
+  z: 60
+  level: Skyblock
+  price: 900
+  item: 129
+  itemName: Emerald Ore
+  meta: 0
+  amount: 10
+86:72:61:Skyblock:
+  x: 86
+  "y": 72
+  z: 61
+  level: Skyblock
+  price: 1200
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 32
+86:72:63:Skyblock:
+  x: 86
+  "y": 72
+  z: 63
+  level: Skyblock
+  price: 500
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 64
+-1614:70:-1013:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1013
+  level: Skyblock
+  price: 400
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 24
+-1614:70:-1014:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1014
+  level: Skyblock
+  price: 600
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+-1614:70:-1016:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1016
+  level: Skyblock
+  price: 500
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 30
+-1614:70:-1012:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 200
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 10
+-1614:70:-1018:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1018
+  level: Skyblock
+  price: 300
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 30
+-1614:70:-1017:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1017
+  level: Skyblock
+  price: 200
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+-1614:70:-1039:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1039
+  level: Skyblock
+  price: 80
+  item: 306
+  itemName: Iron Helmet
+  meta: 0
+  amount: 1
+-1614:70:-1040:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1040
+  level: Skyblock
+  price: 100
+  item: 307
+  itemName: Iron Chestplate
+  meta: 0
+  amount: 1
+-1614:70:-1041:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1041
+  level: Skyblock
+  price: 90
+  item: 308
+  itemName: Iron Leggings
+  meta: 0
+  amount: 1
+-1614:70:-1042:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1042
+  level: Skyblock
+  price: 70
+  item: 309
+  itemName: Iron Boots
+  meta: 0
+  amount: 1
+-1614:70:-1043:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1043
+  level: Skyblock
+  price: 110
+  item: 267
+  itemName: Iron Sword
+  meta: 0
+  amount: 1
+-1614:70:-1031:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1031
+  level: Skyblock
+  price: 200
+  item: 310
+  itemName: Diamond Helmet
+  meta: 0
+  amount: 1
+-1614:70:-1032:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1032
+  level: Skyblock
+  price: 350
+  item: 311
+  itemName: Diamond Chestplate
+  meta: 0
+  amount: 1
+-1614:70:-1033:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1033
+  level: Skyblock
+  price: 190
+  item: 312
+  itemName: Diamond Leggings
+  meta: 0
+  amount: 1
+-1614:70:-1034:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1034
+  level: Skyblock
+  price: 150
+  item: 313
+  itemName: Diamond Boots
+  meta: 0
+  amount: 1
+-1614:70:-1035:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1035
+  level: Skyblock
+  price: 250
+  item: 276
+  itemName: Diamond Sword
+  meta: 0
+  amount: 1
+-1614:70:-1036:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1036
+  level: Skyblock
+  price: 200
+  item: 278
+  itemName: Diamond Pickaxe
+  meta: 0
+  amount: 1
+-1608:70:-1012:Skyblock:
+  x: -1608
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 100
+  item: 297
+  itemName: Bread
+  meta: 0
+  amount: 40
+-1607:70:-1012:Skyblock:
+  x: -1607
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 14
+-1613:70:-1012:Skyblock:
+  x: -1613
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 100
+  item: 393
+  itemName: Baked Potato
+  meta: 0
+  amount: 40
+-1612:70:-1012:Skyblock:
+  x: -1612
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 110
+  item: 364
+  itemName: Steak
+  meta: 0
+  amount: 40
+-1614:70:-1021:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1021
+  level: Skyblock
+  price: 200
+  item: 5
+  itemName: Dark Oak Wood Planks
+  meta: 5
+  amount: 50
+-1614:70:-1022:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1022
+  level: Skyblock
+  price: 200
+  item: 5
+  itemName: Jungle Wood Planks
+  meta: 3
+  amount: 50
+-1614:70:-1023:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1023
+  level: Skyblock
+  price: 200
+  item: 5
+  itemName: Birch Wood Planks
+  meta: 2
+  amount: 50
+-1614:70:-1024:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1024
+  level: Skyblock
+  price: 200
+  item: 5
+  itemName: Spruce Wood Planks
+  meta: 1
+  amount: 50
+-1614:70:-1025:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1025
+  level: Skyblock
+  price: 200
+  item: 5
+  itemName: Dark Oak Wood Planks
+  meta: 5
+  amount: 50
+-1614:70:-1026:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1026
+  level: Skyblock
+  price: 200
+  item: 5
+  itemName: Oak Wood Planks
+  meta: 0
+  amount: 50
+-1601:70:-1012:Skyblock:
+  x: -1601
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 1000000000
+  item: 122
+  itemName: Dragon Egg
+  meta: 0
+  amount: 1
+-1614:70:-1015:Skyblock:
+  x: -1614
+  "y": 70
+  z: -1015
+  level: Skyblock
+  price: 2000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 20
+-1597:70:-1012:Skyblock:
+  x: -1597
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 100
+  item: 355
+  itemName: Bed
+  meta: 0
+  amount: 1
+-1596:70:-1012:Skyblock:
+  x: -1596
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 100
+  item: 389
+  itemName: Item Frame
+  meta: 0
+  amount: 16
+-1595:70:-1012:Skyblock:
+  x: -1595
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 100
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 40
+-1594:70:-1012:Skyblock:
+  x: -1594
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 100
+  item: 3
+  itemName: Dirt
+  meta: 0
+  amount: 40
+-1593:70:-1012:Skyblock:
+  x: -1593
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 200
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 40
+-1589:70:-1012:Skyblock:
+  x: -1589
+  "y": 70
+  z: -1012
+  level: Skyblock
+  price: 100
+  item: 208
+  itemName: End Rod
+  meta: 0
+  amount: 25
+...
